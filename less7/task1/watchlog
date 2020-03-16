@@ -1,0 +1,4 @@
+#Config for service
+#Put into -> /etc/sysconfig
+WORD="ALERT"
+LOG=/var/log/watchlog.log

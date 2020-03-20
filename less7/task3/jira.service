@@ -10,7 +10,7 @@ LimitDATA=50000
 LimitNOFILE=500000
 LimitNPROC=500000
 MemoryLimit=500M
-Piile=/opt/atlassian/jira/work/catalina.pid
+PIDFile=/opt/atlassian/jira/work/catalina.pid
 ExecStart=/opt/atlassian/jira/bin/start-jira.sh
 ExecStop=/opt/atlassian/jira/bin/stop-jira.sh
 

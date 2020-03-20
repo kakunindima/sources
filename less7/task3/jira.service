@@ -1,0 +1,20 @@
+[Unit] 
+Description=Atlassian Jira
+After=network.target
+
+[Service] 
+Type=forking
+User=jira
+LimitCPU=1000
+LimitDATA=50000
+LimitNOFILE=500000
+LimitNPROC=500000
+MemoryLimit=500M
+Piile=/opt/atlassian/jira/work/catalina.pid
+ExecStart=/opt/atlassian/jira/bin/start-jira.sh
+ExecStop=/opt/atlassian/jira/bin/stop-jira.sh
+
+Restart=on-failure
+
+[Install] 
+WantedBy=multi-user.target 

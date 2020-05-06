@@ -1,0 +1,20 @@
+version: "3.6"
+
+services:
+
+  web:
+    image: pengwinn/nginx_t
+    ports:
+      - 8180:80
+    volumes:
+      - ./sources:/var/www/myapp
+      - ./sources/site.conf:/etc/nginx/conf.d/site.conf
+    depends_on:
+      - php
+
+  php:
+    image: pengwinn/php_t
+    volumes:
+      - ./sources:/var/www/myapp
+      - ./sources/php.ini:/usr/local/etc/php/php.ini
+      - ./sources/index.php:/usr/local/etc/php/index.php

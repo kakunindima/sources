@@ -3,41 +3,41 @@ version: '3'
 services:
   node1:
     env_file:
-      - mysql-server.env
+      - ./env/server.env
     image: mysql/mysql-server:8.0.12
     ports:
       - "3301:3306"
     command: ["mysqld","--server_id=1","--binlog_checksum=NONE","--gtid_mode=ON","--enforce_gtid_consistency=ON","--log_bin","--log_slave_updates=ON","--master_info_repository=TABLE","--relay_log_info_repository=TABLE","--transaction_write_set_extraction=XXHASH64","--user=mysql","--skip-host-cache","--skip-name-resolve", "--default_authentication_plugin=mysql_native_password"]
     volumes:
-      - ./data/node1:/var/lib/mysql
+      - /opt/data/node1:/var/lib/mysql
         
   node2:
     env_file:
-      - mysql-server.env
+      - ./env/server.env
     image: mysql/mysql-server:8.0.12
     command: ["mysqld","--server_id=2","--binlog_checksum=NONE","--gtid_mode=ON","--enforce_gtid_consistency=ON","--log_bin","--log_slave_updates=ON","--master_info_repository=TABLE","--relay_log_info_repository=TABLE","--transaction_write_set_extraction=XXHASH64","--user=mysql","--skip-host-cache","--skip-name-resolve", "--default_authentication_plugin=mysql_native_password"]
     volumes:
-      - ./data/node2:/var/lib/mysql
+      - /opt/data/node2:/var/lib/mysql
     ports:
       - "3302:3306"
   
   node3:
     env_file:
-      - mysql-server.env
+      - ./env/server.env
     image: mysql/mysql-server:8.0.12
     command: ["mysqld","--server_id=3","--binlog_checksum=NONE","--gtid_mode=ON","--enforce_gtid_consistency=ON","--log_bin","--log_slave_updates=ON","--master_info_repository=TABLE","--relay_log_info_repository=TABLE","--transaction_write_set_extraction=XXHASH64","--user=mysql","--skip-host-cache","--skip-name-resolve", "--default_authentication_plugin=mysql_native_password"]
     volumes:
-      - ./data/node3:/var/lib/mysql
+      - /opt/data/node3:/var/lib/mysql
     ports:
       - "3303:3306"
 
   mysql-shell:
     env_file:
-      - mysql-shell.env
+      - ./env/shell.env
     image: mysql/mysql-server:8.0.12
     volumes:
       # выполняем скрипт инициализации кластера
-      - ./scripts/run_setupCluster.sh:/docker-entrypoint-initdb.d/run_setupCluster.sh
+      - ./script/init.sh:/docker-entrypoint-initdb.d/init.sh
     depends_on:
       - node1
       - node2
@@ -45,7 +45,7 @@ services:
   
   mysql-router:
     env_file:
-      - mysql-router.env
+      - ./env/router.env
     image: mysql/mysql-router:8.0
     ports:
       - "6446:6446"

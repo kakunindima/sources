@@ -1,0 +1,9 @@
+2020-07-09 10:01:01,019 category: overall, apdex: {apdexScore=33, satisfiedCount=0, toleratingCount=2, frustratedCount=1}
+2020-07-09 10:01:01,030 category: jira.dialog.open.create-issue-dialog, apdex: {apdexScore=50, satisfiedCount=0, toleratingCount=1, frustratedCount=0}
+2020-07-09 10:01:01,030 category: jira.dashboard, apdex: {apdexScore=25, satisfiedCount=0, toleratingCount=1, frustratedCount=1}
+2020-07-09 11:01:00,788 category: jira.header.menu.admin, apdex: {apdexScore=100, satisfiedCount=3, toleratingCount=0, frustratedCount=0}
+2020-07-09 11:01:00,814 category: jira.header.menu.issues, apdex: {apdexScore=50, satisfiedCount=0, toleratingCount=1, frustratedCount=0}
+2020-07-09 11:01:00,816 category: jira.dialog.open.create-issue-dialog, apdex: {apdexScore=25, satisfiedCount=0, toleratingCount=1, frustratedCount=1}
+2020-07-09 11:01:00,818 category: jira.header.menu.profile, apdex: {apdexScore=100, satisfiedCount=1, toleratingCount=0, frustratedCount=0}
+2020-07-09 11:01:00,820 category: jira.dashboard, apdex: {apdexScore=0, satisfiedCount=0, toleratingCount=0, frustratedCount=2}
+2020-07-09 11:01:00,823 category: overall, apdex: {apdexScore=55, satisfiedCount=4, toleratingCount=2, frustratedCount=3}

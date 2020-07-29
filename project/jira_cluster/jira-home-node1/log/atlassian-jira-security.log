@@ -1,0 +1,658 @@
+2020-07-09 08:43:13,307 localhost-startStop-1      JIRA 8.4.0 build: 804001 started. You can now access JIRA through your web browser.
+2020-07-09 08:43:23,186 http-nio-8080-exec-2 anonymous 523x2x1 - 10.0.0.1 /secure/SetupMode!default.jspa HttpSession created [12087zc]
+2020-07-09 08:51:31,323 http-nio-8080-exec-2 anonymous 531x25x1 - 10.0.0.1 /secure/SetupMode!default.jspa HttpSession created [mbjjio]
+2020-07-09 08:55:26,913 http-nio-8080-exec-9 anonymous 535x51x1 - 10.0.0.1,10.0.0.10 /secure/SetupMode!default.jspa HttpSession created [c4cij5]
+2020-07-09 08:56:52,557 localhost-startStop-2      HttpSession [mbjjio] destroyed for 'anonymous'
+2020-07-09 08:56:52,559 localhost-startStop-2      HttpSession [c4cij5] destroyed for 'anonymous'
+2020-07-09 09:03:23,188 localhost-startStop-1      JIRA 8.4.0 build: 804001 started. You can now access JIRA through your web browser.
+2020-07-09 09:03:37,504 http-nio-8080-exec-1 anonymous 543x1x1 - 10.0.0.1,10.0.0.10 /secure/SetupApplicationProperties!default.jspa HttpSession created [1vc2yvs]
+2020-07-09 09:16:39,985 http-nio-8080-exec-6 anonymous 556x53x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [16s0azo]
+2020-07-09 09:18:32,685 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [16s0azo] destroyed for 'anonymous'
+2020-07-09 09:18:38,563 http-nio-8080-exec-4 anonymous 558x107x3 - 10.0.0.1,10.0.0.10 /osd.jsp HttpSession created [sxuqya]
+2020-07-09 09:20:32,887 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [sxuqya] destroyed for 'anonymous'
+2020-07-09 09:23:04,200 http-nio-8080-exec-9 anonymous 563x229x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [w61w5z]
+2020-07-09 09:23:05,001 http-nio-8080-exec-1 anonymous 563x230x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [1kn3qvm]
+2020-07-09 09:23:05,500 http-nio-8080-exec-6 anonymous 563x231x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [1prbdy9]
+2020-07-09 09:23:05,659 http-nio-8080-exec-5 anonymous 563x232x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [11oiws]
+2020-07-09 09:23:28,893 http-nio-8080-exec-7 anonymous 563x326x4 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1vo59h1]
+2020-07-09 09:23:29,004 http-nio-8080-exec-7 pengwinn 563x326x4 1vo59h1 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [1vo59h1] destroyed for 'pengwinn'
+2020-07-09 09:24:56,028 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [w61w5z] destroyed for 'anonymous'
+2020-07-09 09:24:56,031 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1kn3qvm] destroyed for 'anonymous'
+2020-07-09 09:24:56,033 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1prbdy9] destroyed for 'anonymous'
+2020-07-09 09:24:56,036 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [11oiws] destroyed for 'anonymous'
+2020-07-09 09:45:13,118 http-nio-8080-exec-9 anonymous 585x473x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [ybu1cv]
+2020-07-09 09:45:13,271 http-nio-8080-exec-5 anonymous 585x474x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [102mdi]
+2020-07-09 09:46:56,968 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [102mdi] destroyed for 'anonymous'
+2020-07-09 09:46:56,971 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [ybu1cv] destroyed for 'anonymous'
+2020-07-09 09:50:21,583 http-nio-8080-exec-5 anonymous 590x513x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [g5we6i]
+2020-07-09 09:50:22,151 http-nio-8080-exec-7 anonymous 590x517x5 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [1vblsyj]
+2020-07-09 09:50:22,205 http-nio-8080-exec-9 anonymous 590x520x8 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [18ma06v]
+2020-07-09 09:50:24,172 http-nio-8080-exec-8 anonymous 590x526x2 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [4wzjz3]
+2020-07-09 09:50:24,253 http-nio-8080-exec-8 pengwinn 590x526x2 4wzjz3 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [4wzjz3] destroyed for 'pengwinn'
+2020-07-09 09:51:57,113 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [18ma06v] destroyed for 'anonymous'
+2020-07-09 09:51:57,114 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1vblsyj] destroyed for 'anonymous'
+2020-07-09 09:51:57,115 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [g5we6i] destroyed for 'anonymous'
+2020-07-09 09:52:48,768 http-nio-8080-exec-9 anonymous 592x548x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [v6d4w3]
+2020-07-09 09:53:57,155 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [v6d4w3] destroyed for 'anonymous'
+2020-07-09 09:55:08,870 http-nio-8080-exec-3 anonymous 595x549x1 - 10.0.0.1,10.0.0.10 /login.jsp HttpSession created [mv6r3x]
+2020-07-09 09:55:21,971 http-nio-8080-exec-7 anonymous 595x555x1 mv6r3x 10.0.0.1,10.0.0.10 /login.jsp HttpSession [mv6r3x] destroyed for 'anonymous'
+2020-07-09 09:55:21,971 http-nio-8080-exec-7 anonymous 595x555x1 mv6r3x 10.0.0.1,10.0.0.10 /login.jsp HttpSession created [1y2mxlk]
+2020-07-09 09:55:22,058 http-nio-8080-exec-7 pengwinn 595x555x1 mv6r3x 10.0.0.1,10.0.0.10 /login.jsp The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:55:22,368 http-nio-8080-exec-8 anonymous 595x556x1 - 10.0.0.1,10.0.0.10 /login.jsp HttpSession created [b4jmx3]
+2020-07-09 09:55:44,858 http-nio-8080-exec-9 anonymous 595x564x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [21ssnt]
+2020-07-09 09:55:52,053 http-nio-8080-exec-10 anonymous 595x567x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [zeriic]
+2020-07-09 09:56:32,576 http-nio-8080-exec-6 anonymous 596x574x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession created [1bj3fcy]
+2020-07-09 09:56:32,672 http-nio-8080-exec-6 pengwinn 596x574x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:33,487 http-nio-8080-exec-2 anonymous 596x575x1 - 10.0.0.1,10.0.0.10 /rest/api/1.0/shortcuts/804001/c21f20be4342669d91fd3022b7107a3/shortcuts.js HttpSession created [17c8v0s]
+2020-07-09 09:56:33,609 http-nio-8080-exec-2 pengwinn 596x575x1 - 10.0.0.1,10.0.0.10 /rest/api/1.0/shortcuts/804001/c21f20be4342669d91fd3022b7107a3/shortcuts.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:34,370 http-nio-8080-exec-5 anonymous 596x576x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [6gmhd3]
+2020-07-09 09:56:34,491 http-nio-8080-exec-5 pengwinn 596x576x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:37,930 http-nio-8080-exec-4 anonymous 596x577x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [16e8733]
+2020-07-09 09:56:38,478 http-nio-8080-exec-7 anonymous 596x578x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [14vq78]
+2020-07-09 09:56:40,167 http-nio-8080-exec-3 anonymous 596x582x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1gso7nc]
+2020-07-09 09:56:40,278 http-nio-8080-exec-3 pengwinn 596x582x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:42,143 http-nio-8080-exec-10 anonymous 596x583x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest HttpSession created [so9ym1]
+2020-07-09 09:56:42,267 http-nio-8080-exec-10 pengwinn 596x583x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:42,350 http-nio-8080-exec-6 anonymous 596x584x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams HttpSession created [1b8bw8f]
+2020-07-09 09:56:42,579 http-nio-8080-exec-6 pengwinn 596x584x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:46,470 http-nio-8080-exec-4 anonymous 596x586x1 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/dismissNotification HttpSession created [1o1raab]
+2020-07-09 09:56:46,541 http-nio-8080-exec-4 pengwinn 596x586x1 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/dismissNotification The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:56:50,798 http-nio-8080-exec-7 anonymous 596x587x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1ty0n2y]
+2020-07-09 09:56:50,867 http-nio-8080-exec-7 pengwinn 596x587x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:00,483 http-nio-8080-exec-3 anonymous 597x588x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [vvo64u]
+2020-07-09 09:57:00,549 http-nio-8080-exec-3 pengwinn 597x588x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:11,096 http-nio-8080-exec-4 anonymous 597x590x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [flo08q]
+2020-07-09 09:57:11,170 http-nio-8080-exec-4 pengwinn 597x590x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:16,382 http-nio-8080-exec-7 anonymous 597x591x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [w9fdig]
+2020-07-09 09:57:16,608 http-nio-8080-exec-7 pengwinn 597x591x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:26,718 http-nio-8080-exec-1 anonymous 597x592x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1uq11cj]
+2020-07-09 09:57:26,847 http-nio-8080-exec-1 pengwinn 597x592x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:41,932 http-nio-8080-exec-6 anonymous 597x593x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [4oyz8s]
+2020-07-09 09:57:41,974 http-nio-8080-exec-6 pengwinn 597x593x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:43,622 http-nio-8080-exec-10 anonymous 597x594x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1rj1otx]
+2020-07-09 09:57:43,738 http-nio-8080-exec-10 pengwinn 597x594x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:45,316 http-nio-8080-exec-9 anonymous 597x598x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest HttpSession created [vdma58]
+2020-07-09 09:57:45,501 http-nio-8080-exec-1 anonymous 597x599x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams HttpSession created [xp7spe]
+2020-07-09 09:57:45,532 http-nio-8080-exec-9 pengwinn 597x598x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:45,756 http-nio-8080-exec-1 pengwinn 597x599x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:45,759 http-nio-8080-exec-3 anonymous 597x600x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/_/images/fav-jsw.png HttpSession created [zzqpoc]
+2020-07-09 09:57:45,915 http-nio-8080-exec-3 pengwinn 597x600x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/_/images/fav-jsw.png The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:57:57,302 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1gso7nc] destroyed for 'pengwinn'
+2020-07-09 09:57:57,304 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1o1raab] destroyed for 'pengwinn'
+2020-07-09 09:57:57,304 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [16e8733] destroyed for 'anonymous'
+2020-07-09 09:57:57,305 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [so9ym1] destroyed for 'pengwinn'
+2020-07-09 09:57:57,305 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [14vq78] destroyed for 'anonymous'
+2020-07-09 09:57:57,306 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1bj3fcy] destroyed for 'pengwinn'
+2020-07-09 09:57:57,307 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1ty0n2y] destroyed for 'pengwinn'
+2020-07-09 09:57:57,307 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [17c8v0s] destroyed for 'pengwinn'
+2020-07-09 09:57:58,418 http-nio-8080-exec-6 anonymous 597x602x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [15imjkt]
+2020-07-09 09:57:58,476 http-nio-8080-exec-6 pengwinn 597x602x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:00,825 http-nio-8080-exec-10 anonymous 598x604x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [152xlfm]
+2020-07-09 09:58:00,896 http-nio-8080-exec-10 pengwinn 598x604x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:06,274 http-nio-8080-exec-4 anonymous 598x605x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [8ythb6]
+2020-07-09 09:58:06,309 http-nio-8080-exec-4 pengwinn 598x605x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:11,194 http-nio-8080-exec-3 anonymous 598x606x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [fpqwol]
+2020-07-09 09:58:11,245 http-nio-8080-exec-3 pengwinn 598x606x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:11,688 http-nio-8080-exec-1 anonymous 598x607x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [f4430h]
+2020-07-09 09:58:12,458 http-nio-8080-exec-6 anonymous 598x608x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [1o43pzv]
+2020-07-09 09:58:12,656 http-nio-8080-exec-2 anonymous 598x609x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics HttpSession created [9agk1q]
+2020-07-09 09:58:12,811 http-nio-8080-exec-6 pengwinn 598x608x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:12,814 http-nio-8080-exec-10 anonymous 598x610x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [w6sx9w]
+2020-07-09 09:58:12,956 http-nio-8080-exec-2 pengwinn 598x609x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:13,093 http-nio-8080-exec-10 pengwinn 598x610x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:16,466 http-nio-8080-exec-7 anonymous 598x614x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [80zjt1]
+2020-07-09 09:58:16,575 http-nio-8080-exec-7 pengwinn 598x614x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:17,968 http-nio-8080-exec-8 anonymous 598x615x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa HttpSession created [1l2ljkf]
+2020-07-09 09:58:18,092 http-nio-8080-exec-8 pengwinn 598x615x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:18,894 http-nio-8080-exec-1 anonymous 598x616x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [13rs32f]
+2020-07-09 09:58:19,064 http-nio-8080-exec-1 pengwinn 598x616x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:22,175 http-nio-8080-exec-3 anonymous 598x617x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue.jspa HttpSession created [1khz9s]
+2020-07-09 09:58:22,241 http-nio-8080-exec-3 pengwinn 598x617x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:35,092 http-nio-8080-exec-5 anonymous 598x618x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1nf1rrw]
+2020-07-09 09:58:35,155 http-nio-8080-exec-5 pengwinn 598x618x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:36,118 http-nio-8080-exec-4 anonymous 598x619x1 - 10.0.0.1,10.0.0.10 /logoutconfirm.jsp HttpSession created [1jsubv6]
+2020-07-09 09:58:36,151 http-nio-8080-exec-4 pengwinn 598x619x1 - 10.0.0.1,10.0.0.10 /logoutconfirm.jsp The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:37,423 http-nio-8080-exec-9 anonymous 598x620x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [1neli9d]
+2020-07-09 09:58:37,542 http-nio-8080-exec-7 anonymous 598x621x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [3yiztt]
+2020-07-09 09:58:37,553 http-nio-8080-exec-9 pengwinn 598x620x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:37,661 http-nio-8080-exec-7 pengwinn 598x621x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:39,154 http-nio-8080-exec-8 anonymous 598x622x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa HttpSession created [far75t]
+2020-07-09 09:58:39,214 http-nio-8080-exec-8 pengwinn 598x622x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:40,474 http-nio-8080-exec-10 anonymous 598x624x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1k1tdo8]
+2020-07-09 09:58:40,520 http-nio-8080-exec-10 pengwinn 598x624x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:43,729 http-nio-8080-exec-2 anonymous 598x625x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa HttpSession created [97k0sl]
+2020-07-09 09:58:43,842 http-nio-8080-exec-2 pengwinn 598x625x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:45,016 http-nio-8080-exec-5 anonymous 598x626x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [1m0wnp]
+2020-07-09 09:58:45,126 http-nio-8080-exec-4 anonymous 598x627x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1vcaeqo]
+2020-07-09 09:58:45,202 http-nio-8080-exec-5 pengwinn 598x626x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:45,229 http-nio-8080-exec-4 pengwinn 598x627x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:46,009 http-nio-8080-exec-9 anonymous 598x628x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa HttpSession created [fqw47a]
+2020-07-09 09:58:46,068 http-nio-8080-exec-9 pengwinn 598x628x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:49,275 http-nio-8080-exec-3 anonymous 598x631x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [12cqbax]
+2020-07-09 09:58:49,467 http-nio-8080-exec-3 pengwinn 598x631x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:49,701 http-nio-8080-exec-1 anonymous 598x632x2 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn HttpSession created [1rswnqk]
+2020-07-09 09:58:49,795 http-nio-8080-exec-1 pengwinn 598x632x2 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:58:57,404 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [w9fdig] destroyed for 'pengwinn'
+2020-07-09 09:58:57,404 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1uq11cj] destroyed for 'pengwinn'
+2020-07-09 09:58:57,405 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [4oyz8s] destroyed for 'pengwinn'
+2020-07-09 09:58:57,405 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [flo08q] destroyed for 'pengwinn'
+2020-07-09 09:58:57,406 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [zzqpoc] destroyed for 'pengwinn'
+2020-07-09 09:58:57,406 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [vdma58] destroyed for 'pengwinn'
+2020-07-09 09:58:59,994 http-nio-8080-exec-2 anonymous 598x634x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1xe2y4i]
+2020-07-09 09:59:00,129 http-nio-8080-exec-2 pengwinn 598x634x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:00,840 http-nio-8080-exec-4 anonymous 599x636x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [ircj4h]
+2020-07-09 09:59:00,920 http-nio-8080-exec-4 pengwinn 599x636x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:01,903 http-nio-8080-exec-9 anonymous 599x637x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [bq3li5]
+2020-07-09 09:59:01,967 http-nio-8080-exec-9 pengwinn 599x637x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:02,492 http-nio-8080-exec-8 anonymous 599x639x1 - 10.0.0.1,10.0.0.10 /secure/MyJiraHome.jspa HttpSession created [pxtnmt]
+2020-07-09 09:59:02,549 http-nio-8080-exec-8 pengwinn 599x639x1 - 10.0.0.1,10.0.0.10 /secure/MyJiraHome.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:04,304 http-nio-8080-exec-5 anonymous 599x644x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [116dx5u]
+2020-07-09 09:59:04,375 http-nio-8080-exec-5 pengwinn 599x644x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:05,372 http-nio-8080-exec-4 anonymous 599x645x1 - 10.0.0.1,10.0.0.10 /rest/activity-stream/1.0/preferences HttpSession created [18yqaqi]
+2020-07-09 09:59:05,530 http-nio-8080-exec-4 pengwinn 599x645x1 - 10.0.0.1,10.0.0.10 /rest/activity-stream/1.0/preferences The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:07,608 http-nio-8080-exec-8 anonymous 599x648x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1pl8zx]
+2020-07-09 09:59:07,718 http-nio-8080-exec-8 pengwinn 599x648x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:08,439 http-nio-8080-exec-6 anonymous 599x650x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1rwd57o]
+2020-07-09 09:59:08,469 http-nio-8080-exec-6 pengwinn 599x650x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:10,215 http-nio-8080-exec-10 anonymous 599x651x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1bnei1l]
+2020-07-09 09:59:10,326 http-nio-8080-exec-10 pengwinn 599x651x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:10,820 http-nio-8080-exec-5 anonymous 599x653x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa HttpSession created [9mixbl]
+2020-07-09 09:59:10,875 http-nio-8080-exec-5 pengwinn 599x653x1 - 10.0.0.1,10.0.0.10 /secure/Logout.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:11,767 http-nio-8080-exec-4 anonymous 599x654x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [16egxxu]
+2020-07-09 09:59:11,826 http-nio-8080-exec-9 anonymous 599x655x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [vjwg8u]
+2020-07-09 09:59:11,906 http-nio-8080-exec-4 pengwinn 599x654x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:11,930 http-nio-8080-exec-9 pengwinn 599x655x2 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:13,039 http-nio-8080-exec-8 anonymous 599x657x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [2doxi8]
+2020-07-09 09:59:13,164 http-nio-8080-exec-8 pengwinn 599x657x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:13,167 http-nio-8080-exec-3 anonymous 599x658x2 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn HttpSession created [y6ape9]
+2020-07-09 09:59:13,322 http-nio-8080-exec-3 pengwinn 599x658x2 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:13,966 http-nio-8080-exec-1 anonymous 599x659x1 - 10.0.0.1,10.0.0.10 /secure/MyJiraHome.jspa HttpSession created [1q0g2zm]
+2020-07-09 09:59:14,030 http-nio-8080-exec-1 pengwinn 599x659x1 - 10.0.0.1,10.0.0.10 /secure/MyJiraHome.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:15,622 http-nio-8080-exec-6 anonymous 599x660x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [1tc0yyy]
+2020-07-09 09:59:15,704 http-nio-8080-exec-10 anonymous 599x661x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics HttpSession created [11ejcpd]
+2020-07-09 09:59:15,857 http-nio-8080-exec-2 anonymous 599x662x3 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn HttpSession created [vquins]
+2020-07-09 09:59:15,882 http-nio-8080-exec-6 pengwinn 599x660x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:16,029 http-nio-8080-exec-10 pengwinn 599x661x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:16,134 http-nio-8080-exec-2 pengwinn 599x662x3 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:16,370 http-nio-8080-exec-5 anonymous 599x663x3 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [fkyo1a]
+2020-07-09 09:59:16,487 http-nio-8080-exec-5 pengwinn 599x663x3 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:17,535 http-nio-8080-exec-7 anonymous 599x666x1 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams.streams-jira-plugin:date-en-US/date.js HttpSession created [6dd4hs]
+2020-07-09 09:59:17,703 http-nio-8080-exec-7 pengwinn 599x666x1 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams.streams-jira-plugin:date-en-US/date.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:18,493 http-nio-8080-exec-8 anonymous 599x667x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa HttpSession created [e5pljr]
+2020-07-09 09:59:18,613 http-nio-8080-exec-8 pengwinn 599x667x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:26,146 http-nio-8080-exec-6 anonymous 599x670x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [1jgb42d]
+2020-07-09 09:59:26,216 http-nio-8080-exec-6 pengwinn 599x670x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:27,028 http-nio-8080-exec-10 anonymous 599x671x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [2jvt6g]
+2020-07-09 09:59:27,113 http-nio-8080-exec-10 pengwinn 599x671x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:27,150 http-nio-8080-exec-2 anonymous 599x672x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr HttpSession created [uv9vbk]
+2020-07-09 09:59:27,308 http-nio-8080-exec-2 pengwinn 599x672x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:27,741 http-nio-8080-exec-4 anonymous 599x674x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest HttpSession created [679bnt]
+2020-07-09 09:59:27,885 http-nio-8080-exec-9 anonymous 599x675x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams HttpSession created [163sr81]
+2020-07-09 09:59:27,904 http-nio-8080-exec-4 pengwinn 599x674x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:28,002 http-nio-8080-exec-9 pengwinn 599x675x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/streams The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:28,139 http-nio-8080-exec-7 anonymous 599x676x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams.streams-jira-plugin:date-en-US/date.js HttpSession created [cqnuk8]
+2020-07-09 09:59:28,231 http-nio-8080-exec-7 pengwinn 599x676x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams.streams-jira-plugin:date-en-US/date.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 09:59:55,964 http-nio-8080-exec-7 anonymous 599x695x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics HttpSession created [4uyjfu]
+2020-07-09 09:59:57,474 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [12cqbax] destroyed for 'pengwinn'
+2020-07-09 09:59:57,475 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1khz9s] destroyed for 'pengwinn'
+2020-07-09 09:59:57,475 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [3yiztt] destroyed for 'pengwinn'
+2020-07-09 09:59:57,476 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1k1tdo8] destroyed for 'pengwinn'
+2020-07-09 09:59:57,477 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [97k0sl] destroyed for 'pengwinn'
+2020-07-09 09:59:57,477 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [w6sx9w] destroyed for 'pengwinn'
+2020-07-09 09:59:57,478 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1jsubv6] destroyed for 'pengwinn'
+2020-07-09 09:59:57,480 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [13rs32f] destroyed for 'pengwinn'
+2020-07-09 09:59:57,481 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [8ythb6] destroyed for 'pengwinn'
+2020-07-09 09:59:57,482 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1nf1rrw] destroyed for 'pengwinn'
+2020-07-09 09:59:57,482 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1vcaeqo] destroyed for 'pengwinn'
+2020-07-09 09:59:57,482 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1l2ljkf] destroyed for 'pengwinn'
+2020-07-09 09:59:57,483 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [fpqwol] destroyed for 'pengwinn'
+2020-07-09 09:59:57,483 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [152xlfm] destroyed for 'pengwinn'
+2020-07-09 09:59:57,483 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1m0wnp] destroyed for 'pengwinn'
+2020-07-09 09:59:57,484 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1neli9d] destroyed for 'pengwinn'
+2020-07-09 09:59:57,484 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [f4430h] destroyed for 'anonymous'
+2020-07-09 09:59:57,485 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [80zjt1] destroyed for 'pengwinn'
+2020-07-09 10:00:10,957 http-nio-8080-exec-3 anonymous 600x698x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [rn8cai]
+2020-07-09 10:00:11,000 http-nio-8080-exec-3 pengwinn 600x698x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:12,474 http-nio-8080-exec-7 anonymous 600x702x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/be9ff0efea54a6453d2ac60b92912a09/_/download/contextbatch/js/browser-metrics-plugin.contrib,-_super,-atl.dashboard,-atl.general/batch.js HttpSession created [gclli3]
+2020-07-09 10:00:12,525 http-nio-8080-exec-7 pengwinn 600x702x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/be9ff0efea54a6453d2ac60b92912a09/_/download/contextbatch/js/browser-metrics-plugin.contrib,-_super,-atl.dashboard,-atl.general/batch.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:18,849 http-nio-8080-exec-1 anonymous 600x720x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:browser-properties/jira.webresources:browser-properties.js HttpSession created [1uvl6qx]
+2020-07-09 10:00:18,938 http-nio-8080-exec-2 anonymous 600x721x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:escape-css-selector-polyfill/jira.webresources:escape-css-selector-polyfill.js HttpSession created [n6azzu]
+2020-07-09 10:00:18,964 http-nio-8080-exec-1 pengwinn 600x720x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:browser-properties/jira.webresources:browser-properties.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,089 http-nio-8080-exec-2 pengwinn 600x721x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:escape-css-selector-polyfill/jira.webresources:escape-css-selector-polyfill.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,125 http-nio-8080-exec-7 anonymous 600x722x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:legacy-table-utils/jira.webresources:legacy-table-utils.js HttpSession created [b09xe9]
+2020-07-09 10:00:19,244 http-nio-8080-exec-9 anonymous 600x723x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.4.1/_/download/batch/com.atlassian.plugin.jslibs:cookie-1.0.0/com.atlassian.plugin.jslibs:cookie-1.0.0.js HttpSession created [5n91lq]
+2020-07-09 10:00:19,316 http-nio-8080-exec-7 pengwinn 600x722x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:legacy-table-utils/jira.webresources:legacy-table-utils.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,374 http-nio-8080-exec-6 anonymous 600x724x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:util-lite/jira.webresources:util-lite.js HttpSession created [dq5x39]
+2020-07-09 10:00:19,432 http-nio-8080-exec-8 anonymous 600x725x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.4.1/_/download/batch/com.atlassian.plugin.jslibs:backbone-1.0.0-factory/com.atlassian.plugin.jslibs:backbone-1.0.0-factory.js HttpSession created [1lqmf38]
+2020-07-09 10:00:19,520 http-nio-8080-exec-9 pengwinn 600x723x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.4.1/_/download/batch/com.atlassian.plugin.jslibs:cookie-1.0.0/com.atlassian.plugin.jslibs:cookie-1.0.0.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,691 http-nio-8080-exec-6 pengwinn 600x724x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:util-lite/jira.webresources:util-lite.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,720 http-nio-8080-exec-8 pengwinn 600x725x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.4.1/_/download/batch/com.atlassian.plugin.jslibs:backbone-1.0.0-factory/com.atlassian.plugin.jslibs:backbone-1.0.0-factory.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,722 http-nio-8080-exec-10 anonymous 600x726x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:backbone-1.0.0/jira.webresources:backbone-1.0.0.js HttpSession created [14ibqu0]
+2020-07-09 10:00:19,948 http-nio-8080-exec-10 pengwinn 600x726x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:backbone-1.0.0/jira.webresources:backbone-1.0.0.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:19,958 http-nio-8080-exec-3 anonymous 600x727x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:jira-data-stores/jira.webresources:jira-data-stores.js HttpSession created [1vbl9ey]
+2020-07-09 10:00:20,162 http-nio-8080-exec-3 pengwinn 600x727x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:jira-data-stores/jira.webresources:jira-data-stores.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:20,317 http-nio-8080-exec-4 anonymous 600x728x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:number-formatter/jira.webresources:number-formatter.js HttpSession created [12s8q7v]
+2020-07-09 10:00:20,411 http-nio-8080-exec-5 anonymous 600x729x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:content-retrievers/jira.webresources:content-retrievers.js HttpSession created [1006yqa]
+2020-07-09 10:00:20,610 http-nio-8080-exec-4 pengwinn 600x728x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:number-formatter/jira.webresources:number-formatter.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:20,628 http-nio-8080-exec-1 anonymous 600x730x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:inline-layer/jira.webresources:inline-layer.js HttpSession created [1cwj1p]
+2020-07-09 10:00:20,666 http-nio-8080-exec-5 pengwinn 600x729x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:content-retrievers/jira.webresources:content-retrievers.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:20,800 http-nio-8080-exec-2 anonymous 600x731x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:jquery-plugin-textoverflow/jira.webresources:jquery-plugin-textoverflow.js HttpSession created [1gklul1]
+2020-07-09 10:00:20,879 http-nio-8080-exec-1 pengwinn 600x730x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:inline-layer/jira.webresources:inline-layer.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:20,986 http-nio-8080-exec-2 pengwinn 600x731x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:jquery-plugin-textoverflow/jira.webresources:jquery-plugin-textoverflow.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,022 http-nio-8080-exec-7 anonymous 600x732x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:dropdown/jira.webresources:dropdown.js HttpSession created [mlxex7]
+2020-07-09 10:00:21,152 http-nio-8080-exec-9 anonymous 600x733x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.vendors--be1eb78c1a/com.atlassian.auiplugin:split_aui.splitchunk.vendors--be1eb78c1a.js HttpSession created [1u7s41s]
+2020-07-09 10:00:21,226 http-nio-8080-exec-7 pengwinn 600x732x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:dropdown/jira.webresources:dropdown.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,228 http-nio-8080-exec-8 anonymous 600x734x4 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.be1eb78c1a/com.atlassian.auiplugin:split_aui.splitchunk.be1eb78c1a.js HttpSession created [1cze9pa]
+2020-07-09 10:00:21,343 http-nio-8080-exec-9 pengwinn 600x733x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.vendors--be1eb78c1a/com.atlassian.auiplugin:split_aui.splitchunk.vendors--be1eb78c1a.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,405 http-nio-8080-exec-8 pengwinn 600x734x4 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.be1eb78c1a/com.atlassian.auiplugin:split_aui.splitchunk.be1eb78c1a.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,470 http-nio-8080-exec-10 anonymous 600x735x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.component.tooltip/com.atlassian.auiplugin:split_aui.component.tooltip.js HttpSession created [194vffs]
+2020-07-09 10:00:21,579 http-nio-8080-exec-6 anonymous 600x736x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:select-model/jira.webresources:select-model.js HttpSession created [17vg8cl]
+2020-07-09 10:00:21,634 http-nio-8080-exec-10 pengwinn 600x735x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.component.tooltip/com.atlassian.auiplugin:split_aui.component.tooltip.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,789 http-nio-8080-exec-6 pengwinn 600x736x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:select-model/jira.webresources:select-model.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,807 http-nio-8080-exec-3 anonymous 600x737x2 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.c45b2e0bc3/com.atlassian.auiplugin:split_aui.splitchunk.c45b2e0bc3.js HttpSession created [k2rzsn]
+2020-07-09 10:00:21,869 http-nio-8080-exec-4 anonymous 600x738x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.86ad04cc86/com.atlassian.auiplugin:split_aui.splitchunk.86ad04cc86.js HttpSession created [5rjpc8]
+2020-07-09 10:00:21,957 http-nio-8080-exec-3 pengwinn 600x737x2 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.c45b2e0bc3/com.atlassian.auiplugin:split_aui.splitchunk.c45b2e0bc3.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:21,969 http-nio-8080-exec-4 pengwinn 600x738x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/batch/com.atlassian.auiplugin:split_aui.splitchunk.86ad04cc86/com.atlassian.auiplugin:split_aui.splitchunk.86ad04cc86.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:22,141 http-nio-8080-exec-5 anonymous 600x739x3 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:frother-queryable-dropdown-select/jira.webresources:frother-queryable-dropdown-select.js HttpSession created [1u1tavx]
+2020-07-09 10:00:22,177 http-nio-8080-exec-1 anonymous 600x740x2 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:frother-multiselect/jira.webresources:frother-multiselect.js HttpSession created [5cilhi]
+2020-07-09 10:00:22,248 http-nio-8080-exec-5 pengwinn 600x739x3 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:frother-queryable-dropdown-select/jira.webresources:frother-queryable-dropdown-select.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:22,274 http-nio-8080-exec-1 pengwinn 600x740x2 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:frother-multiselect/jira.webresources:frother-multiselect.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:22,295 http-nio-8080-exec-2 anonymous 600x741x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:select-pickers/jira.webresources:select-pickers.js HttpSession created [ring36]
+2020-07-09 10:00:22,454 http-nio-8080-exec-2 pengwinn 600x741x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/1.0/_/download/batch/jira.webresources:select-pickers/jira.webresources:select-pickers.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:22,535 http-nio-8080-exec-7 anonymous 600x742x4 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.4.0/_/download/batch/com.atlassian.jira.gadgets:core-gadget-resources/com.atlassian.jira.gadgets:core-gadget-resources.js HttpSession created [17buuf]
+2020-07-09 10:00:22,661 http-nio-8080-exec-8 anonymous 600x743x5 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [9ukbwf]
+2020-07-09 10:00:22,681 http-nio-8080-exec-7 pengwinn 600x742x4 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.4.0/_/download/batch/com.atlassian.jira.gadgets:core-gadget-resources/com.atlassian.jira.gadgets:core-gadget-resources.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:22,861 http-nio-8080-exec-8 pengwinn 600x743x5 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:23,253 http-nio-8080-exec-9 anonymous 600x744x1 - 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [fnxfi5]
+2020-07-09 10:00:23,297 http-nio-8080-exec-9 pengwinn 600x744x1 fnxfi5 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession [fnxfi5] destroyed for 'pengwinn'
+2020-07-09 10:00:24,273 http-nio-8080-exec-1 anonymous 600x750x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams:streamsWebResources/images/list-view-icon.png HttpSession created [yxqlf1]
+2020-07-09 10:00:24,472 http-nio-8080-exec-1 pengwinn 600x750x3 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.1.3/_/download/resources/com.atlassian.streams:streamsWebResources/images/list-view-icon.png The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:24,499 http-nio-8080-exec-5 anonymous 600x751x3 - 10.0.0.1,10.0.0.10 /secure/viewavatar HttpSession created [hu5p2f]
+2020-07-09 10:00:24,744 http-nio-8080-exec-5 pengwinn 600x751x3 - 10.0.0.1,10.0.0.10 /secure/viewavatar The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:27,015 http-nio-8080-exec-6 anonymous 600x757x1 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/5.0.2/_/download/batch/com.atlassian.jira.plugins.jira-dnd-attachment-plugin:dnd-base/com.atlassian.jira.plugins.jira-dnd-attachment-plugin:dnd-base.js HttpSession created [ab2wca]
+2020-07-09 10:00:27,179 http-nio-8080-exec-6 pengwinn 600x757x1 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/5.0.2/_/download/batch/com.atlassian.jira.plugins.jira-dnd-attachment-plugin:dnd-base/com.atlassian.jira.plugins.jira-dnd-attachment-plugin:dnd-base.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:27,999 http-nio-8080-exec-1 anonymous 600x760x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:constants/com.atlassian.jira.plugins.jira-editor-plugin:constants.js HttpSession created [nebjlw]
+2020-07-09 10:00:28,205 http-nio-8080-exec-1 pengwinn 600x760x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:constants/com.atlassian.jira.plugins.jira-editor-plugin:constants.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:28,237 http-nio-8080-exec-4 anonymous 600x761x2 - 10.0.0.1,10.0.0.10 /s/23972a246a8954dc1c12c2cdd6f56ed9-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:editor-tabs/com.atlassian.jira.plugins.jira-editor-plugin:editor-tabs.js HttpSession created [1ciomlv]
+2020-07-09 10:00:28,445 http-nio-8080-exec-5 anonymous 600x762x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:toggle/com.atlassian.jira.plugins.jira-editor-plugin:toggle.js HttpSession created [75ciq2]
+2020-07-09 10:00:28,481 http-nio-8080-exec-4 pengwinn 600x761x2 - 10.0.0.1,10.0.0.10 /s/23972a246a8954dc1c12c2cdd6f56ed9-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:editor-tabs/com.atlassian.jira.plugins.jira-editor-plugin:editor-tabs.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:28,605 http-nio-8080-exec-5 pengwinn 600x762x3 - 10.0.0.1,10.0.0.10 /s/73aaaef004e051b373b8548162239607-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:toggle/com.atlassian.jira.plugins.jira-editor-plugin:toggle.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:29,238 http-nio-8080-exec-10 anonymous 600x769x1 - 10.0.0.1,10.0.0.10 /s/23972a246a8954dc1c12c2cdd6f56ed9-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:rteInitElement/com.atlassian.jira.plugins.jira-editor-plugin:rteInitElement.js HttpSession created [uc2n0v]
+2020-07-09 10:00:29,353 http-nio-8080-exec-10 pengwinn 600x769x1 - 10.0.0.1,10.0.0.10 /s/23972a246a8954dc1c12c2cdd6f56ed9-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:rteInitElement/com.atlassian.jira.plugins.jira-editor-plugin:rteInitElement.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:29,485 http-nio-8080-exec-1 anonymous 600x770x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:customization/com.atlassian.jira.plugins.jira-editor-plugin:customization.js HttpSession created [y8omt6]
+2020-07-09 10:00:29,659 http-nio-8080-exec-1 pengwinn 600x770x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:customization/com.atlassian.jira.plugins.jira-editor-plugin:customization.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:29,731 http-nio-8080-exec-2 anonymous 600x771x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-wiki-editor:skate/com.atlassian.jira.plugins.jira-wiki-editor:skate.js HttpSession created [1iqzefg]
+2020-07-09 10:00:29,800 http-nio-8080-exec-8 anonymous 600x772x3 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-wiki-editor:wiki-editor-resources/com.atlassian.jira.plugins.jira-wiki-editor:wiki-editor-resources.js HttpSession created [1mvpl7n]
+2020-07-09 10:00:29,938 http-nio-8080-exec-2 pengwinn 600x771x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-wiki-editor:skate/com.atlassian.jira.plugins.jira-wiki-editor:skate.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:29,966 http-nio-8080-exec-8 pengwinn 600x772x3 - 10.0.0.1,10.0.0.10 /s/59dac8bf5872aa5bdddaf8f3d6a03e35-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-wiki-editor:wiki-editor-resources/com.atlassian.jira.plugins.jira-wiki-editor:wiki-editor-resources.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:31,282 http-nio-8080-exec-7 anonymous 600x774x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/tinymce.js HttpSession created [lx1p82]
+2020-07-09 10:00:31,287 http-nio-8080-exec-5 anonymous 600x775x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:schema/com.atlassian.jira.plugins.jira-editor-plugin:schema.js HttpSession created [15my0r4]
+2020-07-09 10:00:31,365 http-nio-8080-exec-9 anonymous 600x776x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/themes/modern/theme.js HttpSession created [dj9fav]
+2020-07-09 10:00:31,460 http-nio-8080-exec-5 pengwinn 600x775x3 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:schema/com.atlassian.jira.plugins.jira-editor-plugin:schema.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:31,483 http-nio-8080-exec-7 pengwinn 600x774x2 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/tinymce.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:31,486 http-nio-8080-exec-6 anonymous 600x777x5 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:wrm/com.atlassian.jira.plugins.jira-editor-plugin:wrm.js HttpSession created [axsaf3]
+2020-07-09 10:00:31,556 http-nio-8080-exec-9 pengwinn 600x776x4 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/themes/modern/theme.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:31,618 http-nio-8080-exec-3 anonymous 600x778x6 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:context-detector/com.atlassian.jira.plugins.jira-editor-plugin:context-detector.js HttpSession created [tr6azx]
+2020-07-09 10:00:31,707 http-nio-8080-exec-6 pengwinn 600x777x5 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:wrm/com.atlassian.jira.plugins.jira-editor-plugin:wrm.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:31,940 http-nio-8080-exec-3 pengwinn 600x778x6 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:context-detector/com.atlassian.jira.plugins.jira-editor-plugin:context-detector.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:32,577 http-nio-8080-exec-8 anonymous 600x783x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:polyfil-string-ends-with/com.atlassian.jira.plugins.jira-editor-plugin:polyfil-string-ends-with.js HttpSession created [6g8g9p]
+2020-07-09 10:00:32,862 http-nio-8080-exec-8 pengwinn 600x783x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:polyfil-string-ends-with/com.atlassian.jira.plugins.jira-editor-plugin:polyfil-string-ends-with.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:33,039 http-nio-8080-exec-5 anonymous 600x784x1 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/resources/com.atlassian.auiplugin:split_aui.splitchunk.56dfb54d0c/assets/atlassian-icons.woff HttpSession created [1nlwt51]
+2020-07-09 10:00:33,179 http-nio-8080-exec-5 pengwinn 600x784x1 - 10.0.0.1,10.0.0.10 /s/i9brts/804001/6411e0087192541a09d88223fb51a6a0/8.5.0/_/download/resources/com.atlassian.auiplugin:split_aui.splitchunk.56dfb54d0c/assets/atlassian-icons.woff The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:33,313 http-nio-8080-exec-4 anonymous 600x785x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [mpecph]
+2020-07-09 10:00:33,378 http-nio-8080-exec-4 pengwinn 600x785x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:33,524 http-nio-8080-exec-7 anonymous 600x787x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:plugins/com.atlassian.jira.plugins.jira-editor-plugin:plugins.js HttpSession created [1uuiai4]
+2020-07-09 10:00:33,578 http-nio-8080-exec-7 pengwinn 600x787x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/batch/com.atlassian.jira.plugins.jira-editor-plugin:plugins/com.atlassian.jira.plugins.jira-editor-plugin:plugins.js The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:34,133 http-nio-8080-exec-2 anonymous 600x791x1 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/thumbs_down.gif HttpSession created [1yld68]
+2020-07-09 10:00:34,185 http-nio-8080-exec-2 pengwinn 600x791x1 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/thumbs_down.gif The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:34,259 http-nio-8080-exec-3 anonymous 600x792x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/check.gif HttpSession created [1lodtyn]
+2020-07-09 10:00:34,345 http-nio-8080-exec-8 anonymous 600x793x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/warning.gif HttpSession created [18utwmh]
+2020-07-09 10:00:34,402 http-nio-8080-exec-3 pengwinn 600x792x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/check.gif The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:34,560 http-nio-8080-exec-8 pengwinn 600x793x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/warning.gif The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:34,731 http-nio-8080-exec-10 anonymous 600x796x3 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/star_yellow.gif HttpSession created [5603xx]
+2020-07-09 10:00:34,848 http-nio-8080-exec-7 anonymous 600x797x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/star_green.gif HttpSession created [y3imhf]
+2020-07-09 10:00:34,877 http-nio-8080-exec-10 pengwinn 600x796x3 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/star_yellow.gif The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:35,031 http-nio-8080-exec-7 pengwinn 600x797x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/star_green.gif The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:38,467 http-nio-8080-exec-1 anonymous 600x800x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1b1jf1a]
+2020-07-09 10:00:38,532 http-nio-8080-exec-1 pengwinn 600x800x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:43,314 http-nio-8080-exec-4 anonymous 600x804x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/skins/lightgray/content.min.css HttpSession created [q35lb4]
+2020-07-09 10:00:43,346 http-nio-8080-exec-8 anonymous 600x805x2 - 10.0.0.1,10.0.0.10 /s/938fc1171d4a57f588a8c146ff7b8a8d-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/ab2357832b9a4bf80c3b0d50db98f23e/_/download/contextbatch/css/jira.global.look-and-feel,-_super/batch.css HttpSession created [ecpu00]
+2020-07-09 10:00:43,461 http-nio-8080-exec-8 pengwinn 600x805x2 - 10.0.0.1,10.0.0.10 /s/938fc1171d4a57f588a8c146ff7b8a8d-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/ab2357832b9a4bf80c3b0d50db98f23e/_/download/contextbatch/css/jira.global.look-and-feel,-_super/batch.css The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:43,476 http-nio-8080-exec-4 pengwinn 600x804x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/skins/lightgray/content.min.css The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:45,929 http-nio-8080-exec-3 anonymous 600x812x1 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/forbidden.png HttpSession created [v53se1]
+2020-07-09 10:00:45,957 http-nio-8080-exec-5 anonymous 600x813x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/lightbulb_on.png HttpSession created [19rl3nk]
+2020-07-09 10:00:46,033 http-nio-8080-exec-3 pengwinn 600x812x1 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/forbidden.png The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:46,047 http-nio-8080-exec-5 pengwinn 600x813x2 - 10.0.0.1,10.0.0.10 /images/icons/emoticons/lightbulb_on.png The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:00:57,512 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [y6ape9] destroyed for 'pengwinn'
+2020-07-09 10:00:57,513 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [11ejcpd] destroyed for 'pengwinn'
+2020-07-09 10:00:57,514 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [116dx5u] destroyed for 'pengwinn'
+2020-07-09 10:00:57,515 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [16egxxu] destroyed for 'pengwinn'
+2020-07-09 10:00:57,516 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [ircj4h] destroyed for 'pengwinn'
+2020-07-09 10:00:57,516 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1jgb42d] destroyed for 'pengwinn'
+2020-07-09 10:00:57,528 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [cqnuk8] destroyed for 'pengwinn'
+2020-07-09 10:00:57,529 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1rwd57o] destroyed for 'pengwinn'
+2020-07-09 10:00:57,529 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [vquins] destroyed for 'pengwinn'
+2020-07-09 10:00:57,530 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [4uyjfu] destroyed for 'anonymous'
+2020-07-09 10:00:57,530 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [9mixbl] destroyed for 'pengwinn'
+2020-07-09 10:00:57,531 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [6dd4hs] destroyed for 'pengwinn'
+2020-07-09 10:00:57,532 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1tc0yyy] destroyed for 'pengwinn'
+2020-07-09 10:00:57,532 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1q0g2zm] destroyed for 'pengwinn'
+2020-07-09 10:00:57,545 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [uv9vbk] destroyed for 'pengwinn'
+2020-07-09 10:00:57,546 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [2doxi8] destroyed for 'pengwinn'
+2020-07-09 10:00:57,547 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [679bnt] destroyed for 'pengwinn'
+2020-07-09 10:01:09,515 http-nio-8080-exec-5 anonymous 601x817x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [17j6o8p]
+2020-07-09 10:01:09,561 http-nio-8080-exec-5 pengwinn 601x817x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:11,454 http-nio-8080-exec-4 anonymous 601x818x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [hy3qjx]
+2020-07-09 10:01:11,545 http-nio-8080-exec-4 pengwinn 601x818x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:11,617 http-nio-8080-exec-8 anonymous 601x819x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics HttpSession created [1o4b8lc]
+2020-07-09 10:01:11,771 http-nio-8080-exec-9 anonymous 601x820x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [1ekar9s]
+2020-07-09 10:01:11,825 http-nio-8080-exec-8 pengwinn 601x819x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/dashboard-diagnostics The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:11,958 http-nio-8080-exec-9 pengwinn 601x820x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:17,639 http-nio-8080-exec-2 anonymous 601x824x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [duttu6]
+2020-07-09 10:01:17,702 http-nio-8080-exec-2 pengwinn 601x824x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:21,539 http-nio-8080-exec-3 anonymous 601x825x1 - 10.0.0.1,10.0.0.10 /secure/admin/WebSudoAuthenticate!default.jspa HttpSession created [1hu9e18]
+2020-07-09 10:01:21,683 http-nio-8080-exec-3 pengwinn 601x825x1 - 10.0.0.1,10.0.0.10 /secure/admin/WebSudoAuthenticate!default.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:24,084 http-nio-8080-exec-8 anonymous 601x828x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [14kuyy8]
+2020-07-09 10:01:24,186 http-nio-8080-exec-8 pengwinn 601x828x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:24,871 http-nio-8080-exec-10 anonymous 601x830x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [827eve]
+2020-07-09 10:01:24,959 http-nio-8080-exec-10 pengwinn 601x830x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:01:32,784 localhost-startStop-2      HttpSession [14kuyy8] destroyed for 'pengwinn'
+2020-07-09 10:01:32,785 localhost-startStop-2      HttpSession [yxqlf1] destroyed for 'pengwinn'
+2020-07-09 10:01:32,786 localhost-startStop-2      HttpSession [5cilhi] destroyed for 'pengwinn'
+2020-07-09 10:01:32,786 localhost-startStop-2      HttpSession [1u7s41s] destroyed for 'pengwinn'
+2020-07-09 10:01:32,787 localhost-startStop-2      HttpSession [1uvl6qx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,787 localhost-startStop-2      HttpSession [1yld68] destroyed for 'pengwinn'
+2020-07-09 10:01:32,788 localhost-startStop-2      HttpSession [mlxex7] destroyed for 'pengwinn'
+2020-07-09 10:01:32,789 localhost-startStop-2      HttpSession [1o4b8lc] destroyed for 'pengwinn'
+2020-07-09 10:01:32,789 localhost-startStop-2      HttpSession [q35lb4] destroyed for 'pengwinn'
+2020-07-09 10:01:32,789 localhost-startStop-2      HttpSession [fqw47a] destroyed for 'pengwinn'
+2020-07-09 10:01:32,790 localhost-startStop-2      HttpSession [18utwmh] destroyed for 'pengwinn'
+2020-07-09 10:01:32,790 localhost-startStop-2      HttpSession [rn8cai] destroyed for 'pengwinn'
+2020-07-09 10:01:32,791 localhost-startStop-2      HttpSession [dq5x39] destroyed for 'pengwinn'
+2020-07-09 10:01:32,791 localhost-startStop-2      HttpSession [b09xe9] destroyed for 'pengwinn'
+2020-07-09 10:01:32,791 localhost-startStop-2      HttpSession [1cze9pa] destroyed for 'pengwinn'
+2020-07-09 10:01:32,791 localhost-startStop-2      HttpSession [1iqzefg] destroyed for 'pengwinn'
+2020-07-09 10:01:32,792 localhost-startStop-2      HttpSession [17vg8cl] destroyed for 'pengwinn'
+2020-07-09 10:01:32,792 localhost-startStop-2      HttpSession [mpecph] destroyed for 'pengwinn'
+2020-07-09 10:01:32,792 localhost-startStop-2      HttpSession [y8omt6] destroyed for 'pengwinn'
+2020-07-09 10:01:32,793 localhost-startStop-2      HttpSession [1hu9e18] destroyed for 'pengwinn'
+2020-07-09 10:01:32,793 localhost-startStop-2      HttpSession [14ibqu0] destroyed for 'pengwinn'
+2020-07-09 10:01:32,794 localhost-startStop-2      HttpSession [5603xx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,794 localhost-startStop-2      HttpSession [2jvt6g] destroyed for 'pengwinn'
+2020-07-09 10:01:32,795 localhost-startStop-2      HttpSession [1lqmf38] destroyed for 'pengwinn'
+2020-07-09 10:01:32,797 localhost-startStop-2      HttpSession [bq3li5] destroyed for 'pengwinn'
+2020-07-09 10:01:32,797 localhost-startStop-2      HttpSession [vvo64u] destroyed for 'pengwinn'
+2020-07-09 10:01:32,797 localhost-startStop-2      HttpSession [17j6o8p] destroyed for 'pengwinn'
+2020-07-09 10:01:32,798 localhost-startStop-2      HttpSession [1y2mxlk] destroyed for 'pengwinn'
+2020-07-09 10:01:32,798 localhost-startStop-2      HttpSession [1o43pzv] destroyed for 'pengwinn'
+2020-07-09 10:01:32,799 localhost-startStop-2      HttpSession [pxtnmt] destroyed for 'pengwinn'
+2020-07-09 10:01:32,799 localhost-startStop-2      HttpSession [1mvpl7n] destroyed for 'pengwinn'
+2020-07-09 10:01:32,800 localhost-startStop-2      HttpSession [194vffs] destroyed for 'pengwinn'
+2020-07-09 10:01:32,800 localhost-startStop-2      HttpSession [gclli3] destroyed for 'pengwinn'
+2020-07-09 10:01:32,801 localhost-startStop-2      HttpSession [dj9fav] destroyed for 'pengwinn'
+2020-07-09 10:01:32,801 localhost-startStop-2      HttpSession [1ekar9s] destroyed for 'pengwinn'
+2020-07-09 10:01:32,801 localhost-startStop-2      HttpSession [e5pljr] destroyed for 'pengwinn'
+2020-07-09 10:01:32,802 localhost-startStop-2      HttpSession [ring36] destroyed for 'pengwinn'
+2020-07-09 10:01:32,802 localhost-startStop-2      HttpSession [vjwg8u] destroyed for 'pengwinn'
+2020-07-09 10:01:32,803 localhost-startStop-2      HttpSession [hu5p2f] destroyed for 'pengwinn'
+2020-07-09 10:01:32,803 localhost-startStop-2      HttpSession [18yqaqi] destroyed for 'pengwinn'
+2020-07-09 10:01:32,804 localhost-startStop-2      HttpSession [1006yqa] destroyed for 'pengwinn'
+2020-07-09 10:01:32,804 localhost-startStop-2      HttpSession [6gmhd3] destroyed for 'pengwinn'
+2020-07-09 10:01:32,805 localhost-startStop-2      HttpSession [lx1p82] destroyed for 'pengwinn'
+2020-07-09 10:01:32,806 localhost-startStop-2      HttpSession [15my0r4] destroyed for 'pengwinn'
+2020-07-09 10:01:32,806 localhost-startStop-2      HttpSession [v53se1] destroyed for 'pengwinn'
+2020-07-09 10:01:32,806 localhost-startStop-2      HttpSession [k2rzsn] destroyed for 'pengwinn'
+2020-07-09 10:01:32,807 localhost-startStop-2      HttpSession [1nlwt51] destroyed for 'pengwinn'
+2020-07-09 10:01:32,820 localhost-startStop-2      HttpSession [1bnei1l] destroyed for 'pengwinn'
+2020-07-09 10:01:32,821 localhost-startStop-2      HttpSession [duttu6] destroyed for 'pengwinn'
+2020-07-09 10:01:32,821 localhost-startStop-2      HttpSession [5n91lq] destroyed for 'pengwinn'
+2020-07-09 10:01:32,821 localhost-startStop-2      HttpSession [15imjkt] destroyed for 'pengwinn'
+2020-07-09 10:01:32,822 localhost-startStop-2      HttpSession [xp7spe] destroyed for 'pengwinn'
+2020-07-09 10:01:32,822 localhost-startStop-2      HttpSession [tr6azx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,822 localhost-startStop-2      HttpSession [1vc2yvs] destroyed for 'pengwinn'
+2020-07-09 10:01:32,822 localhost-startStop-2      HttpSession [1pl8zx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,823 localhost-startStop-2      HttpSession [21ssnt] destroyed for 'anonymous'
+2020-07-09 10:01:32,823 localhost-startStop-2      HttpSession [6g8g9p] destroyed for 'pengwinn'
+2020-07-09 10:01:32,823 localhost-startStop-2      HttpSession [fkyo1a] destroyed for 'pengwinn'
+2020-07-09 10:01:32,824 localhost-startStop-2      HttpSession [b4jmx3] destroyed for 'anonymous'
+2020-07-09 10:01:32,824 localhost-startStop-2      HttpSession [zeriic] destroyed for 'anonymous'
+2020-07-09 10:01:32,824 localhost-startStop-2      HttpSession [far75t] destroyed for 'pengwinn'
+2020-07-09 10:01:32,824 localhost-startStop-2      HttpSession [1lodtyn] destroyed for 'pengwinn'
+2020-07-09 10:01:32,839 localhost-startStop-2      HttpSession [19rl3nk] destroyed for 'pengwinn'
+2020-07-09 10:01:32,840 localhost-startStop-2      HttpSession [827eve] destroyed for 'pengwinn'
+2020-07-09 10:01:32,840 localhost-startStop-2      HttpSession [hy3qjx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,841 localhost-startStop-2      HttpSession [17buuf] destroyed for 'pengwinn'
+2020-07-09 10:01:32,841 localhost-startStop-2      HttpSession [uc2n0v] destroyed for 'pengwinn'
+2020-07-09 10:01:32,842 localhost-startStop-2      HttpSession [5rjpc8] destroyed for 'pengwinn'
+2020-07-09 10:01:32,842 localhost-startStop-2      HttpSession [1rj1otx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,842 localhost-startStop-2      HttpSession [1cwj1p] destroyed for 'pengwinn'
+2020-07-09 10:01:32,843 localhost-startStop-2      HttpSession [75ciq2] destroyed for 'pengwinn'
+2020-07-09 10:01:32,845 localhost-startStop-2      HttpSession [nebjlw] destroyed for 'pengwinn'
+2020-07-09 10:01:32,846 localhost-startStop-2      HttpSession [1vbl9ey] destroyed for 'pengwinn'
+2020-07-09 10:01:32,846 localhost-startStop-2      HttpSession [ab2wca] destroyed for 'pengwinn'
+2020-07-09 10:01:32,846 localhost-startStop-2      HttpSession [1rswnqk] destroyed for 'pengwinn'
+2020-07-09 10:01:32,847 localhost-startStop-2      HttpSession [1uuiai4] destroyed for 'pengwinn'
+2020-07-09 10:01:32,847 localhost-startStop-2      HttpSession [1b1jf1a] destroyed for 'pengwinn'
+2020-07-09 10:01:32,848 localhost-startStop-2      HttpSession [1ciomlv] destroyed for 'pengwinn'
+2020-07-09 10:01:32,848 localhost-startStop-2      HttpSession [1gklul1] destroyed for 'pengwinn'
+2020-07-09 10:01:32,849 localhost-startStop-2      HttpSession [163sr81] destroyed for 'pengwinn'
+2020-07-09 10:01:32,849 localhost-startStop-2      HttpSession [1u1tavx] destroyed for 'pengwinn'
+2020-07-09 10:01:32,849 localhost-startStop-2      HttpSession [9agk1q] destroyed for 'pengwinn'
+2020-07-09 10:01:32,850 localhost-startStop-2      HttpSession [n6azzu] destroyed for 'pengwinn'
+2020-07-09 10:01:32,850 localhost-startStop-2      HttpSession [1xe2y4i] destroyed for 'pengwinn'
+2020-07-09 10:01:32,851 localhost-startStop-2      HttpSession [axsaf3] destroyed for 'pengwinn'
+2020-07-09 10:01:32,851 localhost-startStop-2      HttpSession [y3imhf] destroyed for 'pengwinn'
+2020-07-09 10:01:32,851 localhost-startStop-2      HttpSession [12s8q7v] destroyed for 'pengwinn'
+2020-07-09 10:01:32,852 localhost-startStop-2      HttpSession [ecpu00] destroyed for 'pengwinn'
+2020-07-09 10:01:32,852 localhost-startStop-2      HttpSession [1b8bw8f] destroyed for 'pengwinn'
+2020-07-09 10:01:32,853 localhost-startStop-2      HttpSession [9ukbwf] destroyed for 'pengwinn'
+2020-07-09 10:11:03,361 localhost-startStop-1      JIRA 8.4.0 build: 804001 started. You can now access JIRA through your web browser.
+2020-07-09 10:11:52,741 http-nio-8080-exec-1 anonymous 611x1x1 - 10.0.0.1,10.0.0.10 / HttpSession created [zicd76]
+2020-07-09 10:11:54,692 http-nio-8080-exec-1 pengwinn 611x1x1 - 10.0.0.1,10.0.0.10 / The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:11:58,192 http-nio-8080-exec-2 anonymous 611x2x2 - 10.0.0.1 / HttpSession created [2kk065]
+2020-07-09 10:12:35,649 http-nio-8080-exec-5 anonymous 612x4x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [ni12tn]
+2020-07-09 10:12:46,179 http-nio-8080-exec-6 anonymous 612x5x5 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [rr4s68]
+2020-07-09 10:12:53,655 http-nio-8080-exec-7 anonymous 612x6x6 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [yffwfe]
+2020-07-09 10:13:03,816 http-nio-8080-exec-8 anonymous 613x7x5 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [b7grwp]
+2020-07-09 10:13:25,900 http-nio-8080-exec-8 anonymous 613x12x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [1po1fco]
+2020-07-09 10:13:32,316 http-nio-8080-exec-10 anonymous 613x14x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest HttpSession created [1w1rodw]
+2020-07-09 10:13:32,572 http-nio-8080-exec-10 pengwinn 613x14x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/makeRequest The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:13:39,343 http-nio-8080-exec-3 anonymous 613x15x3 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [6o12ak]
+2020-07-09 10:13:40,087 http-nio-8080-exec-3 pengwinn 613x15x3 6o12ak 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [6o12ak] destroyed for 'pengwinn'
+2020-07-09 10:14:17,380 http-nio-8080-exec-9 anonymous 614x18x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [13eyrgt]
+2020-07-09 10:14:17,589 http-nio-8080-exec-9 pengwinn 614x18x1 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:14:18,117 http-nio-8080-exec-3 anonymous 614x19x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [qabjl4]
+2020-07-09 10:14:18,438 http-nio-8080-exec-3 pengwinn 614x19x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:14:23,622 http-nio-8080-exec-10 anonymous 614x21x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [3oqiax]
+2020-07-09 10:14:29,539 http-nio-8080-exec-4 anonymous 614x22x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [q8v37f]
+2020-07-09 10:14:29,670 http-nio-8080-exec-6 anonymous 614x23x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr HttpSession created [1lbgit6]
+2020-07-09 10:14:29,813 http-nio-8080-exec-4 pengwinn 614x22x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:14:29,872 http-nio-8080-exec-6 pengwinn 614x23x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:14:30,268 http-nio-8080-exec-8 anonymous 614x24x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [dgebjn]
+2020-07-09 10:14:30,542 http-nio-8080-exec-8 pengwinn 614x24x3 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:14:36,602 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [yffwfe] destroyed for 'anonymous'
+2020-07-09 10:14:36,603 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1po1fco] destroyed for 'anonymous'
+2020-07-09 10:14:36,604 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [rr4s68] destroyed for 'anonymous'
+2020-07-09 10:14:36,605 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [2kk065] destroyed for 'anonymous'
+2020-07-09 10:14:36,605 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [b7grwp] destroyed for 'anonymous'
+2020-07-09 10:14:36,606 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [ni12tn] destroyed for 'anonymous'
+2020-07-09 10:14:40,751 http-nio-8080-exec-3 anonymous 614x28x1 - 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [8oajq4]
+2020-07-09 10:14:40,779 http-nio-8080-exec-3 pengwinn 614x28x1 8oajq4 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession [8oajq4] destroyed for 'pengwinn'
+2020-07-09 10:14:45,522 http-nio-8080-exec-9 anonymous 614x29x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [brl055]
+2020-07-09 10:14:45,661 http-nio-8080-exec-9 pengwinn 614x29x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:01,484 http-nio-8080-exec-7 anonymous 615x31x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/skins/lightgray/fonts/tinymce.woff HttpSession created [lam3za]
+2020-07-09 10:15:01,771 http-nio-8080-exec-7 pengwinn 615x31x1 - 10.0.0.1,10.0.0.10 /s/d41d8cd98f00b204e9800998ecf8427e-CDN/i9brts/804001/6411e0087192541a09d88223fb51a6a0/4.1.6/_/download/resources/com.atlassian.jira.plugins.jira-editor-plugin:tinymce/skins/lightgray/fonts/tinymce.woff The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:02,056 http-nio-8080-exec-1 anonymous 615x32x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [q8g5dx]
+2020-07-09 10:15:02,275 http-nio-8080-exec-1 pengwinn 615x32x2 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:12,728 http-nio-8080-exec-3 anonymous 615x33x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [h89ifh]
+2020-07-09 10:15:12,883 http-nio-8080-exec-3 pengwinn 615x33x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:36,772 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [3oqiax] destroyed for 'anonymous'
+2020-07-09 10:15:36,774 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [13eyrgt] destroyed for 'pengwinn'
+2020-07-09 10:15:46,910 http-nio-8080-exec-6 anonymous 615x35x1 - 10.0.0.1,10.0.0.10 /secure/admin/WebSudoAuthenticate!default.jspa HttpSession created [1ynhkrg]
+2020-07-09 10:15:46,979 http-nio-8080-exec-6 pengwinn 615x35x1 - 10.0.0.1,10.0.0.10 /secure/admin/WebSudoAuthenticate!default.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:50,959 http-nio-8080-exec-1 anonymous 615x38x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [14utrwi]
+2020-07-09 10:15:51,128 http-nio-8080-exec-1 pengwinn 615x38x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:15:59,121 http-nio-8080-exec-5 anonymous 615x39x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/applications/versions-licenses HttpSession created [18kr7wy]
+2020-07-09 10:15:59,279 http-nio-8080-exec-5 pengwinn 615x39x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/applications/versions-licenses The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:01,676 http-nio-8080-exec-4 anonymous 616x40x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [p3dqju]
+2020-07-09 10:16:01,837 http-nio-8080-exec-4 pengwinn 616x40x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:02,630 http-nio-8080-exec-9 anonymous 616x42x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [jng4ls]
+2020-07-09 10:16:02,747 http-nio-8080-exec-9 pengwinn 616x42x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:23,398 http-nio-8080-exec-7 anonymous 616x43x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/applications/versions-licenses HttpSession created [1r8bx5y]
+2020-07-09 10:16:23,474 http-nio-8080-exec-7 pengwinn 616x43x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/applications/versions-licenses The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:24,855 http-nio-8080-exec-1 anonymous 616x44x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1744pye]
+2020-07-09 10:16:25,023 http-nio-8080-exec-1 pengwinn 616x44x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:25,875 http-nio-8080-exec-4 anonymous 616x46x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1d7agen]
+2020-07-09 10:16:26,034 http-nio-8080-exec-4 pengwinn 616x46x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:16:36,834 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [q8g5dx] destroyed for 'pengwinn'
+2020-07-09 10:16:36,834 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [q8v37f] destroyed for 'pengwinn'
+2020-07-09 10:16:36,835 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [lam3za] destroyed for 'pengwinn'
+2020-07-09 10:17:36,871 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1d7agen] destroyed for 'pengwinn'
+2020-07-09 10:17:36,872 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [14utrwi] destroyed for 'pengwinn'
+2020-07-09 10:17:36,874 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [18kr7wy] destroyed for 'pengwinn'
+2020-07-09 10:17:36,875 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [jng4ls] destroyed for 'pengwinn'
+2020-07-09 10:17:36,875 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1r8bx5y] destroyed for 'pengwinn'
+2020-07-09 10:18:11,320 http-nio-8080-exec-2 anonymous 618x47x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [1se17b6]
+2020-07-09 10:18:11,444 http-nio-8080-exec-2 pengwinn 618x47x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:13,779 http-nio-8080-exec-10 anonymous 618x48x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql HttpSession created [oy59h6]
+2020-07-09 10:18:13,923 http-nio-8080-exec-8 anonymous 618x49x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr HttpSession created [i5h7c2]
+2020-07-09 10:18:14,046 http-nio-8080-exec-10 pengwinn 618x48x1 - 10.0.0.1,10.0.0.10 /rest/gadget/1.0/issueTable/jql The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:14,135 http-nio-8080-exec-6 anonymous 618x50x3 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn HttpSession created [8mf2aw]
+2020-07-09 10:18:14,141 http-nio-8080-exec-7 anonymous 618x51x4 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [lkiaiw]
+2020-07-09 10:18:14,320 http-nio-8080-exec-8 pengwinn 618x49x2 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:14,342 http-nio-8080-exec-6 pengwinn 618x50x3 - 10.0.0.1,10.0.0.10 /rest/troubleshooting/1.0/check/pengwinn The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:14,362 http-nio-8080-exec-7 pengwinn 618x51x4 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:14,885 http-nio-8080-exec-1 anonymous 618x52x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [1yks0bu]
+2020-07-09 10:18:26,672 http-nio-8080-exec-3 anonymous 618x56x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [u88fjq]
+2020-07-09 10:18:26,761 http-nio-8080-exec-3 pengwinn 618x56x1 - 10.0.0.1,10.0.0.10 /rest/webResources/1.0/resources The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:28,806 http-nio-8080-exec-2 anonymous 618x57x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa HttpSession created [1x3y2mo]
+2020-07-09 10:18:28,900 http-nio-8080-exec-2 pengwinn 618x57x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:41,036 http-nio-8080-exec-9 anonymous 618x59x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [18wtpro]
+2020-07-09 10:18:41,111 http-nio-8080-exec-9 pengwinn 618x59x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:18:46,375 http-nio-8080-exec-5 anonymous 618x60x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [p5a7mj]
+2020-07-09 10:18:46,545 http-nio-8080-exec-5 pengwinn 618x60x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:19:08,265 http-nio-8080-exec-2 anonymous 619x61x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa HttpSession created [ncplmp]
+2020-07-09 10:19:08,333 http-nio-8080-exec-2 pengwinn 619x61x1 - 10.0.0.1,10.0.0.10 /secure/Dashboard.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:19:10,360 http-nio-8080-exec-1 anonymous 619x63x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [18auo84]
+2020-07-09 10:19:11,412 http-nio-8080-exec-6 anonymous 619x64x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr HttpSession created [zjak4q]
+2020-07-09 10:19:11,653 http-nio-8080-exec-8 anonymous 619x65x2 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status HttpSession created [f9mvb]
+2020-07-09 10:19:11,695 http-nio-8080-exec-6 pengwinn 619x64x1 - 10.0.0.1,10.0.0.10 /plugins/servlet/gadgets/ifr The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:19:11,784 http-nio-8080-exec-8 pengwinn 619x65x2 - 10.0.0.1,10.0.0.10 /rest/hipchat/integrations/1.0/configuration/status The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:19:17,605 http-nio-8080-exec-5 anonymous 619x69x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk HttpSession created [704l77]
+2020-07-09 10:19:17,770 http-nio-8080-exec-5 pengwinn 619x69x1 - 10.0.0.1,10.0.0.10 /rest/analytics/1.0/publish/bulk The user 'pengwinn' has PASSED authentication.
+2020-07-09 10:19:19,352 localhost-startStop-2      HttpSession [dgebjn] destroyed for 'pengwinn'
+2020-07-09 10:19:19,355 localhost-startStop-2      HttpSession [1se17b6] destroyed for 'pengwinn'
+2020-07-09 10:19:19,384 localhost-startStop-2      HttpSession [zjak4q] destroyed for 'pengwinn'
+2020-07-09 10:19:19,385 localhost-startStop-2      HttpSession [h89ifh] destroyed for 'pengwinn'
+2020-07-09 10:19:19,387 localhost-startStop-2      HttpSession [oy59h6] destroyed for 'pengwinn'
+2020-07-09 10:19:19,389 localhost-startStop-2      HttpSession [u88fjq] destroyed for 'pengwinn'
+2020-07-09 10:19:19,390 localhost-startStop-2      HttpSession [704l77] destroyed for 'pengwinn'
+2020-07-09 10:19:19,452 localhost-startStop-2      HttpSession [lkiaiw] destroyed for 'pengwinn'
+2020-07-09 10:19:19,454 localhost-startStop-2      HttpSession [8mf2aw] destroyed for 'pengwinn'
+2020-07-09 10:19:19,455 localhost-startStop-2      HttpSession [1w1rodw] destroyed for 'pengwinn'
+2020-07-09 10:19:19,457 localhost-startStop-2      HttpSession [zicd76] destroyed for 'pengwinn'
+2020-07-09 10:19:19,458 localhost-startStop-2      HttpSession [qabjl4] destroyed for 'pengwinn'
+2020-07-09 10:19:19,459 localhost-startStop-2      HttpSession [18wtpro] destroyed for 'pengwinn'
+2020-07-09 10:19:19,460 localhost-startStop-2      HttpSession [ncplmp] destroyed for 'pengwinn'
+2020-07-09 10:19:19,461 localhost-startStop-2      HttpSession [p5a7mj] destroyed for 'pengwinn'
+2020-07-09 10:19:19,529 localhost-startStop-2      HttpSession [1ynhkrg] destroyed for 'pengwinn'
+2020-07-09 10:19:19,547 localhost-startStop-2      HttpSession [i5h7c2] destroyed for 'pengwinn'
+2020-07-09 10:19:19,556 localhost-startStop-2      HttpSession [1lbgit6] destroyed for 'pengwinn'
+2020-07-09 10:19:19,557 localhost-startStop-2      HttpSession [p3dqju] destroyed for 'pengwinn'
+2020-07-09 10:19:19,558 localhost-startStop-2      HttpSession [1744pye] destroyed for 'pengwinn'
+2020-07-09 10:19:19,559 localhost-startStop-2      HttpSession [1yks0bu] destroyed for 'anonymous'
+2020-07-09 10:19:19,560 localhost-startStop-2      HttpSession [1x3y2mo] destroyed for 'pengwinn'
+2020-07-09 10:19:19,562 localhost-startStop-2      HttpSession [18auo84] destroyed for 'anonymous'
+2020-07-09 10:19:19,563 localhost-startStop-2      HttpSession [brl055] destroyed for 'pengwinn'
+2020-07-09 10:19:19,564 localhost-startStop-2      HttpSession [f9mvb] destroyed for 'pengwinn'
+2020-07-09 11:20:12,507 localhost-startStop-1      JIRA 8.4.0 build: 804001 started. You can now access JIRA through your web browser.
+2020-07-09 11:21:24,564 http-nio-8080-exec-1 anonymous 681x1x1 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [1yk2c22]
+2020-07-09 11:23:31,594 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1yk2c22] destroyed for 'anonymous'
+2020-07-09 11:23:36,001 http-nio-8080-exec-2 anonymous 683x2x1 - 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [npa64s]
+2020-07-09 11:23:39,826 http-nio-8080-exec-3 anonymous 683x3x2 - 10.0.0.12,10.0.0.10 /plugins/servlet/oauth/request-token HttpSession created [aqd4ng]
+2020-07-09 11:23:40,446 http-nio-8080-exec-4 anonymous 683x4x2 - 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1892m2w]
+2020-07-09 11:23:41,447 http-nio-8080-exec-2 pengwinn 683x2x1 npa64s 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession [npa64s] destroyed for 'pengwinn'
+2020-07-09 11:23:41,455 http-nio-8080-exec-4 pengwinn 683x4x2 1892m2w 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession [1892m2w] destroyed for 'pengwinn'
+2020-07-09 11:24:22,220 http-nio-8080-exec-8 anonymous 684x5x1 - 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1a32bj4]
+2020-07-09 11:24:22,247 http-nio-8080-exec-8 pengwinn 684x5x1 1a32bj4 10.0.0.12,10.0.0.10 /rest/webResources/1.0/resources HttpSession [1a32bj4] destroyed for 'pengwinn'
+2020-07-09 11:25:10,587 http-nio-8080-exec-10 anonymous 685x6x1 - 10.0.0.1,10.0.0.10 /secure/QuickCreateIssue!default.jspa HttpSession created [1qk2k2q]
+2020-07-09 11:25:31,766 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [aqd4ng] destroyed for 'anonymous'
+2020-07-09 11:25:39,523 http-nio-8080-exec-8 anonymous 685x15x1 1qk2k2q 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession [1qk2k2q] destroyed for 'anonymous'
+2020-07-09 11:25:39,535 http-nio-8080-exec-8 anonymous 685x15x1 1qk2k2q 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession created [19vt1d6]
+2020-07-09 11:25:39,713 http-nio-8080-exec-8 pengwinn 685x15x1 1qk2k2q 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login The user 'pengwinn' has PASSED authentication.
+2020-07-09 11:25:44,007 http-nio-8080-exec-2 anonymous 685x20x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [q358e]
+2020-07-09 11:25:44,303 http-nio-8080-exec-3 anonymous 685x21x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [1p44nhk]
+2020-07-09 11:25:44,514 http-nio-8080-exec-5 anonymous 685x22x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [h8fc79]
+2020-07-09 11:25:44,614 http-nio-8080-exec-6 anonymous 685x23x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [71o2sg]
+2020-07-09 11:25:50,890 http-nio-8080-exec-1 anonymous 685x33x7 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [1x79406]
+2020-07-09 11:25:50,977 http-nio-8080-exec-1 pengwinn 685x33x7 1x79406 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [1x79406] destroyed for 'pengwinn'
+2020-07-09 11:27:31,996 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1p44nhk] destroyed for 'anonymous'
+2020-07-09 11:27:32,000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [h8fc79] destroyed for 'anonymous'
+2020-07-09 11:27:32,003 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [q358e] destroyed for 'anonymous'
+2020-07-09 11:27:32,010 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [71o2sg] destroyed for 'anonymous'
+2020-07-09 11:32:45,478 http-nio-8080-exec-9 anonymous 692x50x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [1y3olnp]
+2020-07-09 11:32:46,854 http-nio-8080-exec-8 anonymous 692x53x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [on9g7d]
+2020-07-09 11:32:47,133 http-nio-8080-exec-2 anonymous 692x54x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [ngwnlk]
+2020-07-09 11:32:47,638 http-nio-8080-exec-7 anonymous 692x55x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [rb9kk1]
+2020-07-09 11:32:49,847 http-nio-8080-exec-8 anonymous 692x62x2 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [mqkzid]
+2020-07-09 11:32:50,060 http-nio-8080-exec-8 pengwinn 692x62x2 mqkzid 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [mqkzid] destroyed for 'pengwinn'
+2020-07-09 11:34:32,191 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [ngwnlk] destroyed for 'anonymous'
+2020-07-09 11:34:32,197 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1y3olnp] destroyed for 'anonymous'
+2020-07-09 11:34:32,207 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [on9g7d] destroyed for 'anonymous'
+2020-07-09 11:34:32,217 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [rb9kk1] destroyed for 'anonymous'
+2020-07-09 11:36:41,382 http-nio-8080-exec-9 anonymous 696x77x1 - 10.0.0.12,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [xh08ir]
+2020-07-09 11:38:16,748 http-nio-8080-exec-1 anonymous 698x81x2 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [1seg9uq]
+2020-07-09 11:38:32,374 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [xh08ir] destroyed for 'anonymous'
+2020-07-09 11:39:33,271 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1seg9uq] destroyed for 'anonymous'
+2020-07-09 11:40:32,275 http-nio-8080-exec-1 pengwinn 700x160x1 19vt1d6 10.0.0.1,10.0.0.10 /secure/Logout!default.jspa HttpSession [19vt1d6] destroyed for 'pengwinn'
+2020-07-09 11:40:32,276 http-nio-8080-exec-1 pengwinn 700x160x1 19vt1d6 10.0.0.1,10.0.0.10 /secure/Logout!default.jspa HttpSession created [czhqfi]
+2020-07-09 11:40:32,281 http-nio-8080-exec-1 pengwinn 700x160x1 19vt1d6 10.0.0.1,10.0.0.10 /secure/Logout!default.jspa The user 'pengwinn' has logged out.
+2020-07-09 11:40:50,434 http-nio-8080-exec-1 anonymous 700x174x1 czhqfi 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession [czhqfi] destroyed for 'anonymous'
+2020-07-09 11:40:50,437 http-nio-8080-exec-1 anonymous 700x174x1 czhqfi 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession created [18jnqyg]
+2020-07-09 11:40:50,491 http-nio-8080-exec-1 pengwinn 700x174x1 czhqfi 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login The user 'pengwinn' has PASSED authentication.
+2020-07-09 12:51:51,978 localhost-startStop-1      JIRA 8.4.0 build: 804001 started. You can now access JIRA through your web browser.
+2020-07-09 12:53:06,537 http-nio-8080-exec-1 anonymous 773x1x1 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [9ehadh]
+2020-07-09 12:55:09,735 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [9ehadh] destroyed for 'anonymous'
+2020-07-09 13:03:53,692 http-nio-8080-exec-2 anonymous 783x2x1 - 10.0.0.1,10.0.0.10 / HttpSession created [19reg9i]
+2020-07-09 13:04:17,158 http-nio-8080-exec-8 anonymous 784x8x1 19reg9i 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession [19reg9i] destroyed for 'anonymous'
+2020-07-09 13:04:17,186 http-nio-8080-exec-8 anonymous 784x8x1 19reg9i 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession created [6q4t6m]
+2020-07-09 13:04:17,436 http-nio-8080-exec-8 pengwinn 784x8x1 19reg9i 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login The user 'pengwinn' has PASSED authentication.
+2020-07-09 13:04:17,438 http-nio-8080-exec-9 anonymous 784x9x2 19reg9i 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login HttpSession created [117wto1]
+2020-07-09 13:04:17,631 http-nio-8080-exec-9 pengwinn 784x9x2 19reg9i 10.0.0.1,10.0.0.10 /rest/gadget/1.0/login The user 'pengwinn' has PASSED authentication.
+2020-07-09 13:04:27,633 http-nio-8080-exec-2 anonymous 784x16x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [91jdau]
+2020-07-09 13:04:27,641 http-nio-8080-exec-5 anonymous 784x15x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [1vl2yvs]
+2020-07-09 13:04:27,911 http-nio-8080-exec-6 anonymous 784x17x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [1yekz3q]
+2020-07-09 13:04:27,920 http-nio-8080-exec-7 anonymous 784x18x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.issuetable,gadget.assignedtome,gadget.issuetable.common HttpSession created [y3j7pm]
+2020-07-09 13:04:28,147 http-nio-8080-exec-3 anonymous 784x19x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [14ymw0n]
+2020-07-09 13:04:28,209 http-nio-8080-exec-4 anonymous 784x20x4 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/und/gadget.common,gadget.activity.stream HttpSession created [1e2b7mn]
+2020-07-09 13:04:28,322 http-nio-8080-exec-2 anonymous 784x21x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [ue92hu]
+2020-07-09 13:04:28,857 http-nio-8080-exec-5 anonymous 784x22x3 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/messagebundle/en_US/gadget.common,gadget.activity.stream HttpSession created [10o71xk]
+2020-07-09 13:04:39,092 http-nio-8080-exec-9 anonymous 784x33x4 - 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession created [zuqul5]
+2020-07-09 13:04:39,244 http-nio-8080-exec-9 pengwinn 784x33x4 zuqul5 10.0.0.11,10.0.0.10 /rest/webResources/1.0/resources HttpSession [zuqul5] destroyed for 'pengwinn'
+2020-07-09 13:06:10,259 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1e2b7mn] destroyed for 'anonymous'
+2020-07-09 13:06:10,260 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1yekz3q] destroyed for 'anonymous'
+2020-07-09 13:06:10,260 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [14ymw0n] destroyed for 'anonymous'
+2020-07-09 13:06:10,261 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [10o71xk] destroyed for 'anonymous'
+2020-07-09 13:06:10,262 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [y3j7pm] destroyed for 'anonymous'
+2020-07-09 13:06:10,262 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [91jdau] destroyed for 'anonymous'
+2020-07-09 13:06:10,263 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [ue92hu] destroyed for 'anonymous'
+2020-07-09 13:06:10,274 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1vl2yvs] destroyed for 'anonymous'
+2020-07-09 13:53:02,711 http-nio-8080-exec-2 anonymous 833x42x1 - 10.0.0.11,10.0.0.10 /rest/gadgets/1.0/g/feed HttpSession created [gn8mxd]
+2020-07-09 13:54:11,558 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [gn8mxd] destroyed for 'anonymous'
+2020-07-09 14:09:49,078 localhost-startStop-2      HttpSession [117wto1] destroyed for 'pengwinn'
+2020-07-09 14:09:49,094 localhost-startStop-2      HttpSession [6q4t6m] destroyed for 'pengwinn'
+2020-07-29 11:31:07,573+0000 localhost-startStop-1      Jira 8.11.0 build: 811001 started. You can now access Jira through your web browser.
+2020-07-29 11:35:47,851+0000 http-nio-8080-exec-7 anonymous 695x13x1 - 10.0.0.1,10.0.0.5 /login.jsp HttpSession created [c2mj5n]
+2020-07-29 11:36:27,532+0000 http-nio-8080-exec-4 anonymous 696x18x1 c2mj5n 10.0.0.1,10.0.0.5 /login.jsp HttpSession [c2mj5n] destroyed for 'anonymous'
+2020-07-29 11:36:27,603+0000 http-nio-8080-exec-4 anonymous 696x18x1 c2mj5n 10.0.0.1,10.0.0.5 /login.jsp HttpSession created [137csvd]
+2020-07-29 11:36:28,000+0000 http-nio-8080-exec-4 pengwinn 696x18x1 c2mj5n 10.0.0.1,10.0.0.5 /login.jsp The user 'pengwinn' has PASSED authentication.
+2020-07-29 11:39:23,975+0000 http-nio-8080-exec-5 anonymous 699x74x7 - 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession created [1ojpd0]
+2020-07-29 11:39:24,020+0000 http-nio-8080-exec-5 pengwinn 699x74x7 1ojpd0 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession [1ojpd0] destroyed for 'pengwinn'
+2020-07-29 11:41:14,058+0000 http-nio-8080-exec-9 pengwinn 701x85x8 137csvd 10.0.0.1,10.0.0.5 /secure/admin/WebSudoAuthenticate.jspa The user 'pengwinn' has PASSED authentication.
+2020-07-29 11:41:15,251+0000 http-nio-8080-exec-9 pengwinn 701x85x8 137csvd 10.0.0.1,10.0.0.5 /secure/admin/WebSudoAuthenticate.jspa HttpSession [137csvd] destroyed for 'pengwinn'
+2020-07-29 11:41:15,303+0000 http-nio-8080-exec-9 pengwinn 701x85x8 137csvd 10.0.0.1,10.0.0.5 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1bce74k]
+2020-07-29 11:45:08,869+0000 http-nio-8080-exec-9 anonymous 705x236x4 - 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession created [1t1k5sr]
+2020-07-29 11:45:08,977+0000 http-nio-8080-exec-9 pengwinn 705x236x4 1t1k5sr 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession [1t1k5sr] destroyed for 'pengwinn'
+2020-07-29 11:48:39,329+0000 http-nio-8080-exec-2 anonymous 708x267x4 - 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession created [1y8k49s]
+2020-07-29 11:48:39,374+0000 http-nio-8080-exec-2 pengwinn 708x267x4 1y8k49s 10.0.0.11,10.0.0.4 /rest/webResources/1.0/resources HttpSession [1y8k49s] destroyed for 'pengwinn'
+2020-07-29 11:52:17,770+0000 localhost-startStop-2      HttpSession [1bce74k] destroyed for 'pengwinn'

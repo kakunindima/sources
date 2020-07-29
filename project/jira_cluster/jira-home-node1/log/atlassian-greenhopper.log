@@ -1,0 +1,134 @@
+2020-07-29 11:29:16,796 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v8.11.0 #ab3dd4f088517915 built 2020-07-13T13:38:00.341Z - plugin starting...
+*********************************************************************************
+
+2020-07-29 11:29:17,568 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v8.11.0 (ab3dd4f088517915) started at 29 Jul 2020 11:29
+
+
+2020-07-29 11:29:17,591 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [greenhopper.service.logging.LogSupport] There does not appear to be any JIRA Agile upgrade history
+2020-07-29 11:29:17,609 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [greenhopper.service.logging.LogSupport] This can be ok as upgrade history was not introduced until JIRA Agile v5.10.3
+2020-07-29 11:29:17,612 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [LEXO_RANK]: com.atlassian.greenhopper.service.lexorank.LexoRankIssueEventListener
+2020-07-29 11:29:17,618 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [EPIC_LINK]: com.atlassian.greenhopper.customfield.epiclink.EpicLinkIssueEventListener
+2020-07-29 11:29:17,624 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [ISSUE_CLOSED]: com.atlassian.greenhopper.issue.RemoveFutureSprintsFromClosedIssuesListener
+2020-07-29 11:29:17,644 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [ISSUE_MOVED]: com.atlassian.greenhopper.service.issue.IssueMovedEventListener
+2020-07-29 11:29:17,655 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [CACHE_MANAGER]: com.atlassian.greenhopper.service.GreenHopperCacheManager
+2020-07-29 11:29:17,662 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [RANK_INDEX_SERVICE]: com.atlassian.greenhopper.service.rank.RankIndexServiceImpl
+2020-07-29 11:29:17,675 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [LEXO_RANK_FIELD]: com.atlassian.greenhopper.customfield.lexorank.LexoRankCFListener
+2020-07-29 11:29:17,691 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [LEXO_RANK_BALANCING_EVENT]: com.atlassian.greenhopper.service.lexorank.balance.LexoRankBalancingService
+2020-07-29 11:29:17,710 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [INDEX_CHECK_SERVICE]: com.atlassian.greenhopper.service.index.IndexCheckServiceImpl
+2020-07-29 11:29:17,713 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [QUERY_MAPPER_CACHE]: com.atlassian.greenhopper.service.query.QueryToProjectMapper
+2020-07-29 11:29:17,714 ThreadPoolAsyncTaskExecutor::Thread 8 INFO      [com.atlassian.greenhopper.EventListenerRegistry] registered event listener [AUDIT_LOG]: com.atlassian.greenhopper.auditing.AuditingEventListener
+2020-07-29 11:29:42,419 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v8.11.0 #ab3dd4f088517915 built 2020-07-13T13:38:00.341Z - plugin started.  Get Agile!
+*********************************************************************************
+
+2020-07-29 11:29:42,803 active-objects-init-JiraTenantImpl{id='system'}-0 INFO anonymous     [atlassian.greenhopper.upgrade.AOUpgradeTask001] Starting upgrade task.
+2020-07-29 11:29:42,922 active-objects-init-JiraTenantImpl{id='system'}-0 INFO anonymous     [atlassian.greenhopper.upgrade.AOUpgradeTask001] No need to run upgrade task. Lexo rank table not found.
+2020-07-29 11:31:33,500 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Epic Link with true
+2020-07-29 11:31:33,620 localhost-startStop-1 INFO      [greenhopper.service.issuelink.EpicCustomFieldServiceImpl] Created Default Epic Link field with ID '10000'
+2020-07-29 11:31:34,229 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Epic Status with true
+2020-07-29 11:31:34,233 localhost-startStop-1 INFO      [greenhopper.service.issuelink.EpicCustomFieldServiceImpl] Created Default Epic Status field with ID '10001'
+2020-07-29 11:31:34,563 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Epic Name with true
+2020-07-29 11:31:35,248 localhost-startStop-1 INFO      [greenhopper.service.issuelink.EpicCustomFieldServiceImpl] Created Default Epic Name field with ID '10002'
+2020-07-29 11:31:35,973 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Epic Color with true
+2020-07-29 11:31:35,977 localhost-startStop-1 INFO      [greenhopper.service.issuelink.EpicCustomFieldServiceImpl] Created Default Epic Color field with ID '10003'
+2020-07-29 11:31:36,702 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Sprint with true
+2020-07-29 11:31:36,719 localhost-startStop-1 INFO      [greenhopper.service.sprint.SprintCustomFieldServiceImpl] Created Default Sprint field with ID '10004'
+2020-07-29 11:31:37,158 localhost-startStop-1 INFO      [greenhopper.customfield.lexorank.LexoRankCFListener] LexoRank field created with id 10005, initing field values
+2020-07-29 11:31:37,923 localhost-startStop-1 INFO      [manager.lexorank.collation.CollationIntegrityCheckerImpl]  Collation check performed against LexoRank table: OK
+2020-07-29 11:31:38,205 localhost-startStop-1 INFO      [manager.issue.fields.ManagedFieldRestrictor] Configuration locked for field Rank with true
+2020-07-29 11:31:39,503 localhost-startStop-1 INFO      [greenhopper.manager.version.VersionAdapterFactory] Begin JIRA start dates for versions migration
+2020-07-29 11:31:39,539 localhost-startStop-1 INFO      [greenhopper.manager.version.VersionAdapterFactory] Done migrating JIRA start dates for versions
+2020-07-29 11:31:40,318 localhost-startStop-1 INFO      [com.atlassian.greenhopper.Launcher] Registering dynamic modules
+2020-07-29 11:31:57,361 localhost-startStop-1 INFO      [service.lexorank.balance.LexoRankBalancingService] Initialising LexoRank Balancing Service
+2020-07-29 11:31:57,468 localhost-startStop-1 INFO      [service.lexorank.balance.LexoRankBalancingService] Scheduling clustered job, jobKey=LEXO_RANK_SCHEDULER_JOB, JobHandlerKey=com.atlassian.greenhopper.service.lexorank.balance.LexoRankBalancePluginJob
+2020-07-29 11:31:57,517 localhost-startStop-1 INFO      [service.lexorank.balance.LexoRankBalancingService] LexoRank Balancing Service is initialised, foregroundIndexRunning=false
+2020-07-29 11:32:09,873 localhost-startStop-1 INFO      [manager.issue.issuetypes.EpicIssueTypeProvider] Created Issue Type with ID '10100'
+2020-07-29 11:32:10,938 localhost-startStop-1 INFO      [manager.issue.issuetypes.StoryIssueTypeProvider] Created Issue Type with ID '10101'
+2020-07-29 11:32:11,454 localhost-startStop-1 INFO      [manager.issue.fields.StoryPointsCustomFieldProvider] Created Default field with ID '10006'
+2020-07-29 11:32:11,774 localhost-startStop-1 INFO      [greenhopper.service.issuelink.EpicLinkTypeServiceImpl] Epic-Story Link Type now exists with ID 10200
+2020-07-29 11:32:13,787 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+Managed Issue Types
+	Epic                            id=10100                   name=Epic                            
+	Story                           id=10101                   name=Story                           
+
+
+Managed Custom Fields
+	Epic Colour                     id=customfield_10003       name=Epic Color                      type=com.pyxis.greenhopper.jira:gh-epic-color
+	Epic Link                       id=customfield_10000       name=Epic Link                       type=com.pyxis.greenhopper.jira:gh-epic-link
+	Epic Name                       id=customfield_10002       name=Epic Name                       type=com.pyxis.greenhopper.jira:gh-epic-label
+	Epic Status                     id=customfield_10001       name=Epic Status                     type=com.pyxis.greenhopper.jira:gh-epic-status
+	Default Global Rank             id=customfield_10005       name=Rank                            type=com.pyxis.greenhopper.jira:gh-lexo-rank
+	Sprint                          id=customfield_10004       name=Sprint                          type=com.pyxis.greenhopper.jira:gh-sprint
+	Story Points                    id=customfield_10006       name=Story Points                    type=com.atlassian.jira.plugin.system.customfieldtypes:float
+
+
+Managed Issue Link Types
+	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
+
+2020-07-29 11:32:17,929 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:17,942 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=46) : Sets status categories for (what is assumed to be) JIRA Agile's simple workflow's statuses.
+2020-07-29 11:32:18,017 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask046] Finding statuses with no assigned status category semantics...
+2020-07-29 11:32:18,094 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask046] Found 0 statuses with no status category
+2020-07-29 11:32:18,203 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=46) : Sets status categories for (what is assumed to be) JIRA Agile's simple workflow's statuses.
+2020-07-29 11:32:18,206 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,293 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,296 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=47) : Removing classic gadgets from dashboards
+2020-07-29 11:32:18,397 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=47) : Removing classic gadgets from dashboards
+2020-07-29 11:32:18,399 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,514 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,530 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=48) : Add reindex required message for Epic Label field searching
+2020-07-29 11:32:18,601 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=48) : Add reindex required message for Epic Label field searching
+2020-07-29 11:32:18,602 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,702 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:18,729 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=49) : Migrate existing Project Administer permission holders to also have Manage Sprints permission
+2020-07-29 11:32:19,259 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=49) : Migrate existing Project Administer permission holders to also have Manage Sprints permission
+2020-07-29 11:32:19,264 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:19,383 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:19,388 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=50) : Re-performs the migration for Manage Sprints permission due to the rollback as the consequence of HOT-35978
+2020-07-29 11:32:19,396 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask050] Finding all schemes which currently have Manage Sprint entities
+2020-07-29 11:32:19,409 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask050] Deleting 1 Manage Sprint entity(ies) from Default Permission Scheme
+2020-07-29 11:32:19,700 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask050] Start copying all current ADMINISTER_PROJECT entities to MANAGE_SPRINT!
+2020-07-29 11:32:19,981 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=50) : Re-performs the migration for Manage Sprints permission due to the rollback as the consequence of HOT-35978
+2020-07-29 11:32:19,992 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:20,082 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:32:20,088 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=51) : Perform manage sprint permission migration for BTF customer only, since the 49th and 50th upgrade tasks, which were empty for BTF in order to allow customers downgrade from Cloud to BTF in the absence of a formal downgrade process
+2020-07-29 11:32:20,090 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask051] Start the migration for Manage Sprints permission
+2020-07-29 11:32:20,121 localhost-startStop-1 INFO      [atlassian.greenhopper.upgrade.GhUpgradeTask051] Migration has finished!
+2020-07-29 11:32:20,151 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=51) : Perform manage sprint permission migration for BTF customer only, since the 49th and 50th upgrade tasks, which were empty for BTF in order to allow customers downgrade from Cloud to BTF in the absence of a formal downgrade process
+2020-07-29 11:32:20,156 localhost-startStop-1 INFO      [com.atlassian.greenhopper.upgrade] =========================================
+2020-07-29 11:43:20,695 JiraTaskExecutionThread-1 INFO pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [service.lexorank.balance.LexoRankBalancingService] Balancing Disabled
+2020-07-29 11:43:43,289 IssueIndexer:thread-10 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.manager.lexorank.LexoRankDaoImpl] Unlocked entities count (1) does not correspond to the number of locked entites (2) for lock 65fb6655-b6ad-4595-a82a-dda725059927
+2020-07-29 11:43:44,005 IssueIndexer:thread-7 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10001]
+2020-07-29 11:43:44,055 IssueIndexer:thread-7 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,147 IssueIndexer:thread-7 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10001]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,065 IssueIndexer:thread-1 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10300]
+2020-07-29 11:43:44,213 IssueIndexer:thread-1 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,227 IssueIndexer:thread-1 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10300]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,290 IssueIndexer:thread-8 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10108]
+2020-07-29 11:43:44,315 IssueIndexer:thread-8 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,333 IssueIndexer:thread-8 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10108]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,271 IssueIndexer:thread-9 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10107]
+2020-07-29 11:43:44,397 IssueIndexer:thread-9 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,431 IssueIndexer:thread-9 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10107]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,317 IssueIndexer:thread-6 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10200]
+2020-07-29 11:43:44,477 IssueIndexer:thread-6 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,503 IssueIndexer:thread-6 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10200]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,295 IssueIndexer:thread-20 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10003]
+2020-07-29 11:43:44,555 IssueIndexer:thread-20 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,580 IssueIndexer:thread-20 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10003]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,295 IssueIndexer:thread-3 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10203]
+2020-07-29 11:43:44,630 IssueIndexer:thread-3 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,650 IssueIndexer:thread-3 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10203]. Indexing max LexoRank value instead.
+2020-07-29 11:43:44,291 IssueIndexer:thread-4 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] Unable to retrieve rank for field [10005] and issue [10202]
+2020-07-29 11:43:44,701 IssueIndexer:thread-4 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankCFType] gh.lexorank.service.error.retrytimeout
+2020-07-29 11:43:44,722 IssueIndexer:thread-4 WARN pengwinn 703x129x1 1bce74k 10.0.0.1,10.0.0.5 /secure/admin/jira/IndexReIndex!reindex.jspa [greenhopper.customfield.lexorank.LexoRankIndexer] Could not retrieve LexoRank value for issue[id=10202]. Indexing max LexoRank value instead.
